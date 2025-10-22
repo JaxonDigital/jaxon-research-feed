@@ -19,7 +19,7 @@ from xml.dom import minidom
 
 AUDIO_DIR = Path("/Users/bgerby/Documents/dev/ai/audio-reviews")
 DRIVE_URLS_FILE = AUDIO_DIR / "drive-urls.json"
-GITHUB_BASE_URL = "https://bgerby.github.io/jaxon-research-feed/audio"
+GITHUB_BASE_URL = "https://jaxondigital.github.io/jaxon-research-feed/audio"
 
 def get_mp3_metadata(mp3_path):
     """Extract metadata from MP3 file using ffprobe."""
@@ -107,7 +107,7 @@ def generate_rss(output_path):
         'competitive intelligence, and actionable insights.'
     )
     SubElement(channel, 'language').text = 'en-us'
-    SubElement(channel, 'link').text = 'https://github.com/bgerby/jaxon-research-feed'
+    SubElement(channel, 'link').text = 'https://github.com/JaxonDigital/jaxon-research-feed'
 
     # iTunes-specific metadata
     SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}author').text = 'Jaxon Digital'
@@ -116,7 +116,7 @@ def generate_rss(output_path):
 
     # Self-reference link
     atom_link = SubElement(channel, '{http://www.w3.org/2005/Atom}link')
-    atom_link.set('href', 'https://bgerby.github.io/jaxon-research-feed/feed.rss')
+    atom_link.set('href', 'https://jaxondigital.github.io/jaxon-research-feed/feed.rss')
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
 
@@ -206,7 +206,7 @@ def main():
     generate_rss(output_path)
 
     print(f"\nSubscribe URL:")
-    print(f"https://bgerby.github.io/jaxon-research-feed/feed.rss")
+    print(f"https://jaxondigital.github.io/jaxon-research-feed/feed.rss")
 
 if __name__ == '__main__':
     main()

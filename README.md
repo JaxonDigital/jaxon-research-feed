@@ -7,7 +7,7 @@ Podcast RSS feed for Jaxon Digital research article reviews.
 Add this URL to your podcast app:
 
 ```
-https://bgerby.github.io/jaxon-research-feed/feed.rss
+https://jaxondigital.github.io/jaxon-research-feed/feed.rss
 ```
 
 ## Sources
