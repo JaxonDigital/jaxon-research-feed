@@ -10,6 +10,69 @@
     <ns0:explicit>no</ns0:explicit>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>368 - Connecting the Dots Between Research and Specification to Implementation using NotebookLM</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 19:49:40  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Gvv4fMiQVruHuAMVd5hvjrZbCor3oJ0K</guid>
+      <enclosure length="11662770" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Gvv4fMiQVruHuAMVd5hvjrZbCor3oJ0K"/>
+      <ns0:duration>00:12:08</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>365 - How Optimizely MCP Learns Your CMS (and Remembers It)</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 19:34:20  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1P70f7W-or7f-GGifu_dOKUrDsf2IGsxW</guid>
+      <enclosure length="8152982" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1P70f7W-or7f-GGifu_dOKUrDsf2IGsxW"/>
+      <ns0:duration>00:08:29</ns0:duration>
+      <ns0:author>Johnny Mullaney</ns0:author>
+    </item>
+    <item>
+      <title>363 - Going Headless: Making the Right Architectural Choices</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 19:34:35  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=18Oz66hBOmOgNnf3TPjGLKq05T37um6gA</guid>
+      <enclosure length="14419471" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=18Oz66hBOmOgNnf3TPjGLKq05T37um6gA"/>
+      <ns0:duration>00:15:01</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>359 - AI Tools, MCP, and Function Calling for Optimizely</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 19:21:46  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1kMz-FT9YUkXCG1mpJ3ldKb8QUtvV5-lZ</guid>
+      <enclosure length="17337099" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1kMz-FT9YUkXCG1mpJ3ldKb8QUtvV5-lZ"/>
+      <ns0:duration>00:18:03</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>356 - Building a Discovery-First MCP for Optimizely CMS – Part 1 of 4</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 19:54:17  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Dc-xjXmFQ_30aTrLk8bzHfXUqoUcCQfi</guid>
+      <enclosure length="4426658" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Dc-xjXmFQ_30aTrLk8bzHfXUqoUcCQfi"/>
+      <ns0:duration>00:04:36</ns0:duration>
+      <ns0:author>Johnny Mullaney</ns0:author>
+    </item>
+    <item>
+      <title>351 - Image Generation with Gemini 2.5 Flash</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 18:19:35  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1HUh-HCXx75itEthsS7xB1ulDBczCMy1p</guid>
+      <enclosure length="15253119" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HUh-HCXx75itEthsS7xB1ulDBczCMy1p"/>
+      <ns0:duration>00:15:53</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>350 - Automated Page Audit for Large Content Sites in Optimizely</title>
+      <description>High Priority Article Review</description>
+      <pubDate>Thu, 23 Oct 2025 18:01:40  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=15uCZNlQ31hfvhj9GcNF70RGazO-NzmvO</guid>
+      <enclosure length="13298970" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15uCZNlQ31hfvhj9GcNF70RGazO-NzmvO"/>
+      <ns0:duration>00:13:51</ns0:duration>
+      <ns0:author>Sanjay Katiyar</ns0:author>
+    </item>
+    <item>
       <title>343 - Yet Another Claude Model Just Shocked The World - Faster Than Sonnet 4.5</title>
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 16:52:53  +0000</pubDate>
