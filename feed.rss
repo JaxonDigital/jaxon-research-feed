@@ -37,6 +37,15 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
+      <title>6 - Claude Skills Might Quietly Replace Mcp</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:43:36  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-6.mp3</guid>
+      <enclosure length="5303703" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-6.mp3"/>
+      <ns0:duration>00:05:31</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>5 - Dspy Stop Prompting Start Programming Your Ai</title>
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:01:01  +0000</pubDate>
@@ -134,6 +143,15 @@
       <enclosure length="18506430" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fYbTMBMjAX8VwBmiIMsYSEhrDHsTP3Xl"/>
       <ns0:duration>00:19:16</ns0:duration>
       <ns0:author>Article Author</ns0:author>
+    </item>
+    <item>
+      <title>4 - Stanford Just Killed Prompt Engineering With 8 Words And I Cant Believe It Worked</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:42:48  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-4.mp3</guid>
+      <enclosure length="11405547" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-4.mp3"/>
+      <ns0:duration>00:11:52</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
       <title>398 - Claude Code Agents To Opencode Agents</title>
@@ -496,6 +514,15 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
+      <title>3 - How To Work With Claude Code Effectively</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:40:48  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-3.mp3</guid>
+      <enclosure length="36725657" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-3.mp3"/>
+      <ns0:duration>00:38:15</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>234 - Member-only story Featured You Don’t Need RAG! Build a Q&amp;A AI Agent in 30 Minutes 🚀</title>
       <description>Relevance: 4/5 stars</description>
       <pubDate>Sun, 19 Oct 2025 01:01:26  +0000</pubDate>
@@ -514,12 +541,48 @@
       <ns0:author>Quan Huynh</ns0:author>
     </item>
     <item>
+      <title>2 - Technology Architect Builds His Own Ai Testing Tool And Confirms My Chain Of Babble Theory Works</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:33:57  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-2.mp3</guid>
+      <enclosure length="14863113" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-2.mp3"/>
+      <ns0:duration>00:15:28</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>13 - Ai Pullback Has Officially Started</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:48:06  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-13.mp3</guid>
+      <enclosure length="10826383" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-13.mp3"/>
+      <ns0:duration>00:11:16</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>12 - Seven Good Reasons Ai Needs To Be Regulated Or Rebuilt</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:45:21  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-12.mp3</guid>
+      <enclosure length="11812919" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-12.mp3"/>
+      <ns0:duration>00:12:18</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>10 - The End Of Engineering As We Know It Industry Faces Its Biggest Shift</title>
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:32:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1fDja0p_SjnytWJ0HsEfrJbBv6f0Ypjhb</guid>
       <enclosure length="16628693" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fDja0p_SjnytWJ0HsEfrJbBv6f0Ypjhb"/>
       <ns0:duration>00:17:19</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>1 - Promptify A Python Library For Llm Prompt Management</title>
+      <description>High Priority Article</description>
+      <pubDate>Mon, 27 Oct 2025 15:22:54  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-1.mp3</guid>
+      <enclosure length="9186737" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-1.mp3"/>
+      <ns0:duration>00:09:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
   </channel>
