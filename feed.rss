@@ -10,6 +10,42 @@
     <ns0:explicit>no</ns0:explicit>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>9 - Master Claude Memory In 7 Steps Cut Context Loss By 80 With Project Scoped Recall</title>
+      <description>High Priority Article</description>
+      <pubDate>Sun, 26 Oct 2025 23:28:56  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-9.mp3</guid>
+      <enclosure length="22018539" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-9.mp3"/>
+      <ns0:duration>00:22:56</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>8 - How I Turned Ai Coding Chaos Into A 3x Productivity Multiplier With My Agentic Coding Tool</title>
+      <description>High Priority Article</description>
+      <pubDate>Sun, 26 Oct 2025 23:25:01  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-8.mp3</guid>
+      <enclosure length="18312189" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-8.mp3"/>
+      <ns0:duration>00:19:04</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>7 - Claude Code 2 0 27</title>
+      <description>High Priority Article</description>
+      <pubDate>Sun, 26 Oct 2025 23:22:21  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-7.mp3</guid>
+      <enclosure length="23087085" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-7.mp3"/>
+      <ns0:duration>00:24:02</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>5 - Dspy Stop Prompting Start Programming Your Ai</title>
+      <description>High Priority Article</description>
+      <pubDate>Sun, 26 Oct 2025 23:01:01  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-5.mp3</guid>
+      <enclosure length="5910051" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-5.mp3"/>
+      <ns0:duration>00:06:09</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>426 - OpenAI Agent Builder + Tinybird MCP: Building a Data-Driven Agent Workflow</title>
       <description>High Priority Article Review</description>
       <pubDate>Sat, 25 Oct 2025 10:55:38  +0000</pubDate>
@@ -422,6 +458,15 @@
       <enclosure length="19302479" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1FXoq2hzZnOE89sHbcjsTCSgb3ltV97J2"/>
       <ns0:duration>00:20:06</ns0:duration>
       <ns0:author>Quan Huynh</ns0:author>
+    </item>
+    <item>
+      <title>10 - The End Of Engineering As We Know It Industry Faces Its Biggest Shift</title>
+      <description>High Priority Article</description>
+      <pubDate>Sun, 26 Oct 2025 23:32:32  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-10.mp3</guid>
+      <enclosure length="16628693" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-10.mp3"/>
+      <ns0:duration>00:17:19</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
     </item>
   </channel>
 </rss>
