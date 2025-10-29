@@ -116,7 +116,7 @@ def generate_rss(output_path):
 
     # Podcast cover art
     itunes_image = SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}image')
-    itunes_image.set('href', 'https://drive.google.com/uc?export=view&id=1QM8b9frFfp7sqDo8LBBhUBdp1AX44M_J')
+    itunes_image.set('href', 'https://jaxondigital.github.io/jaxon-research-feed/cover-art.png')
 
     # Self-reference link
     atom_link = SubElement(channel, '{http://www.w3.org/2005/Atom}link')
