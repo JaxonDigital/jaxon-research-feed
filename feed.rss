@@ -38,6 +38,15 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
+      <title>GAT-652</title>
+      <description>Article review - GAT-652</description>
+      <pubDate>Fri, 07 Nov 2025 07:27:20  +0000</pubDate>
+      <guid>https://drive.google.com/file/d/1MG1uCWwWiMVU0XeKu7a5DpDjVmuHppNe/view?usp=drivesdk</guid>
+      <enclosure length="15132044" type="audio/mpeg" url="https://drive.google.com/file/d/1MG1uCWwWiMVU0XeKu7a5DpDjVmuHppNe/view?usp=drivesdk"/>
+      <ns0:duration>00:12:36</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
       <title>651 - The Top Local Llms You Can Actually Run At Home</title>
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, focusing on the practical application and deployment of local large language models (LLMs) that can be run on modest hardwar...</description>
       <pubDate>Fri, 07 Nov 2025 07:12:56  +0000</pubDate>
