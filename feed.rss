@@ -29,12 +29,75 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
+      <title>GAT-703</title>
+      <description>Article review - GAT-703</description>
+      <pubDate>Sun, 09 Nov 2025 15:14:41  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1t6ERrv0GL5Q0hmcBc2gLIfsGdb4rh4OG</guid>
+      <enclosure length="17279564" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1t6ERrv0GL5Q0hmcBc2gLIfsGdb4rh4OG"/>
+      <ns0:duration>00:14:23</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>GAT-702</title>
+      <description>Article review - GAT-702</description>
+      <pubDate>Sun, 09 Nov 2025 15:10:47  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Bej9de1V0FYaFHGEupBTVbdS9BxRqkjm</guid>
+      <enclosure length="19487084" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Bej9de1V0FYaFHGEupBTVbdS9BxRqkjm"/>
+      <ns0:duration>00:16:14</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>GAT-700</title>
+      <description>Article review - GAT-700</description>
+      <pubDate>Sun, 09 Nov 2025 15:18:47  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1tiyQtxuPaQM2pho1x7W3edxFMh40CFJP</guid>
+      <enclosure length="19804364" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tiyQtxuPaQM2pho1x7W3edxFMh40CFJP"/>
+      <ns0:duration>00:16:30</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
       <title>7 - Claude Code 2 0 27</title>
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:22:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1fEOPSph8_heqqgKrH7llGauNfLgzzsV_</guid>
       <enclosure length="23087085" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fEOPSph8_heqqgKrH7llGauNfLgzzsV_"/>
       <ns0:duration>00:24:02</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>GAT-699</title>
+      <description>Article review - GAT-699</description>
+      <pubDate>Sun, 09 Nov 2025 14:59:13  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1gOf30rtPoO7ynBrjBgxWgHZVL5eYROPr</guid>
+      <enclosure length="31525964" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gOf30rtPoO7ynBrjBgxWgHZVL5eYROPr"/>
+      <ns0:duration>00:26:16</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
+      <title>698 - When The Ground Shifts Leading Engineering Teams Through The Anxiety We All Feel</title>
+      <description>The article's exploration of advanced automation and AI-driven testing, particularly through Playwright Test Agents and the Model Context Protocol, is highly relevant to Jaxon Digital's strategic p...</description>
+      <pubDate>Sun, 09 Nov 2025 10:42:46  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=19rGY-KfirYTXxUDYQdyrkxRL5YVxs748</guid>
+      <enclosure length="22789024" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=19rGY-KfirYTXxUDYQdyrkxRL5YVxs748"/>
+      <ns0:duration>00:23:44</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>697 - Github Workflow For Claude Code Automation</title>
+      <description>The article on Github Workflow for Claude Code Automation provides critical insights into the use of sub-agent architecture for enhancing development workflows, directly aligning with Jaxon Digital...</description>
+      <pubDate>Sun, 09 Nov 2025 10:38:29  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1ToZswEiMJqr3r_yxOq7iSozMhMLonf90</guid>
+      <enclosure length="16257108" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ToZswEiMJqr3r_yxOq7iSozMhMLonf90"/>
+      <ns0:duration>00:16:55</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>696 - Claude Agent Sdk Why Anthropic Just Changed Enterprise Ai</title>
+      <description>The analysis of Claude Agent SDK and its implications for enterprise AI, particularly through the lens of Claude Sonnet 4.5 and GPT-5-Codex, is critically relevant for Jaxon Digital's transition to...</description>
+      <pubDate>Sun, 09 Nov 2025 10:34:58  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1PxM-rNvFjFoovOelSwFCk3pXZs2RrNHY</guid>
+      <enclosure length="13676274" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1PxM-rNvFjFoovOelSwFCk3pXZs2RrNHY"/>
+      <ns0:duration>00:14:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
@@ -221,8 +284,8 @@
       <title>613 - Building An Autonomous Ai Developer With Langgraphs React Agent</title>
       <description>The article reveals a significant alignment with Jaxon Digital's strategic pivot towards AI Operations and agent orchestration frameworks, particularly through the development of autonomous AI developers using LangGraph's ReAct Agent.</description>
       <pubDate>Wed, 05 Nov 2025 12:57:16  +0000</pubDate>
-      <guid>https://drive.usercontent.google.com/download?id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj&amp;export=download&amp;confirm=t</guid>
-      <enclosure length="105949504" type="audio/mpeg" url="https://drive.usercontent.google.com/download?id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj&amp;export=download&amp;confirm=t"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj</guid>
+      <enclosure length="105949504" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj"/>
       <ns0:duration>01:28:17</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -977,8 +1040,8 @@
       <title>410 - Building An Agentic Deep Thinking Rag Pipeline To Solve Complex Queries</title>
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 13:54:41  +0000</pubDate>
-      <guid>https://drive.usercontent.google.com/download?id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83&amp;export=download&amp;confirm=t</guid>
-      <enclosure length="108501083" type="audio/mpeg" url="https://drive.usercontent.google.com/download?id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83&amp;export=download&amp;confirm=t"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83</guid>
+      <enclosure length="108501083" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83"/>
       <ns0:duration>01:53:01</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
