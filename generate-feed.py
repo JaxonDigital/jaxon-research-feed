@@ -198,12 +198,39 @@ def generate_rss(output_path):
     # Remove extra blank lines
     pretty_xml = '\n'.join([line for line in pretty_xml.split('\n') if line.strip()])
 
-    # Write to file
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(pretty_xml)
+    # Write to file atomically (prevents corruption if process crashes)
+    import tempfile
+    import os
 
-    print(f"\n✓ Generated RSS feed: {output_path}")
-    print(f"  Episodes: {len(episodes)}")
+    temp_fd, temp_path = tempfile.mkstemp(
+        dir=output_path.parent,
+        prefix='.feed.rss.tmp.',
+        suffix='.xml'
+    )
+
+    try:
+        # Write to temp file
+        with os.fdopen(temp_fd, 'w', encoding='utf-8') as f:
+            f.write(pretty_xml)
+
+        # Validate XML can be re-parsed (catches corruption)
+        try:
+            ET.parse(temp_path)
+        except ET.ParseError as e:
+            raise Exception(f"Generated invalid XML: {e}")
+
+        # Atomic rename (POSIX guarantees atomicity)
+        os.replace(temp_path, output_path)
+
+        print(f"\n✓ Generated RSS feed: {output_path}")
+        print(f"  Episodes: {len(episodes)}")
+    except Exception as e:
+        # Clean up temp file on error
+        try:
+            os.unlink(temp_path)
+        except:
+            pass
+        raise Exception(f"Failed to write RSS feed: {e}")
 
 def main():
     output_path = Path(__file__).parent / 'feed.rss'
