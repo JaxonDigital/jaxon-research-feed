@@ -14,6 +14,7 @@ import subprocess
 import json
 from pathlib import Path
 from datetime import datetime
+import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 
