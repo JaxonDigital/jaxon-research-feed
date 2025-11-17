@@ -20,6 +20,15 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
+      <title>GAT-860</title>
+      <description>Article review - GAT-860</description>
+      <pubDate>Mon, 17 Nov 2025 16:38:16  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3</guid>
+      <enclosure length="4987680" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3"/>
+      <ns0:duration>00:04:09</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
       <title>859 - The Unstable Genius Intern Why Your Ai Agent Is Brilliant One Moment And Baffles You The Next</title>
       <description>The article offers valuable insights into managing the inherent inconsistencies of LLM-based AI agents, which is directly relevant to Jaxon Digital's focus on building a robust AI Operations Platfo...</description>
       <pubDate>Mon, 17 Nov 2025 14:52:57  +0000</pubDate>
