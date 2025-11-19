@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaxon Research Feed</title>
     <description>Audio reviews of high-priority articles relevant to Jaxon Digital's AI agent and DXP platform initiatives. Includes strategic analysis, competitive intelligence, and actionable insights.</description>
@@ -11,12 +11,75 @@
     <ns0:image href="https://jaxondigital.github.io/jaxon-research-feed/cover-art.png"/>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>910 - Agent Mode Is Bonkers</title>
+      <description>The article showcases the advanced capabilities of AI agents in software development, emphasizing agent orchestration and AI-driven automation, which aligns with Jaxon Digital's focus on building a...</description>
+      <pubDate>Wed, 19 Nov 2025 13:50:19  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1jwtne1j266kJgGPb084H7mPadRqtEFJU</guid>
+      <enclosure length="5894058" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jwtne1j266kJgGPb084H7mPadRqtEFJU"/>
+      <ns0:duration>00:06:08</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>904 - Architecture Patterns That Actually Scale In 2025 The Only Three You Need</title>
+      <description>The insights from the article on scalable architecture patterns are crucial for Jaxon Digital's transition to a SaaS model for AI Operations, emphasizing the importance of modular monoliths, event-...</description>
+      <pubDate>Wed, 19 Nov 2025 13:59:23  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=16lCo2eYRf_sXy7PBdybULoX_qdZMU2bH</guid>
+      <enclosure length="20108690" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=16lCo2eYRf_sXy7PBdybULoX_qdZMU2bH"/>
+      <ns0:duration>00:20:56</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>901 - The Official Central Directory For Mcp Servers Has Landed</title>
+      <description>The article introduces the MCP Registry, a centralized directory for Model Context Protocol servers, which is highly relevant to Jaxon Digital's AI operations platform initiative. It aligns with th...</description>
+      <pubDate>Wed, 19 Nov 2025 13:51:48  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1AEeorimKoMO-jGG5EvqtiHTFka2pt-yO</guid>
+      <enclosure length="9656946" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1AEeorimKoMO-jGG5EvqtiHTFka2pt-yO"/>
+      <ns0:duration>00:10:03</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>9 - Master Claude Memory In 7 Steps Cut Context Loss By 80 With Project Scoped Recall</title>
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:28:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1QL6AWaK4_k3TGEm9lLlKHiLPX8FErdaT</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QL6AWaK4_k3TGEm9lLlKHiLPX8FErdaT" type="audio/mpeg" length="22018539"/>
+      <enclosure length="22018539" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1QL6AWaK4_k3TGEm9lLlKHiLPX8FErdaT"/>
       <ns0:duration>00:22:56</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>899 - Building An Agentic Graph Rag System With Neo4j A Journey In Progress</title>
+      <description>The article's focus on building an agentic Graph RAG system with Neo4j is highly relevant to Jaxon Digital's AI agent initiatives, especially in the context of enhancing AI operations and agent orc...</description>
+      <pubDate>Wed, 19 Nov 2025 12:43:16  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1iWItTN9tMXKpAAoqkXw-oIW_2aQVbbbf</guid>
+      <enclosure length="4769802" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1iWItTN9tMXKpAAoqkXw-oIW_2aQVbbbf"/>
+      <ns0:duration>00:04:57</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>895 - Improving Frontend Design Through Claude Skills Breaking Free From Ai Slop</title>
+      <description>The article's focus on leveraging Claude Skills for enhancing frontend design through AI is highly relevant to Jaxon Digital's strategic shift towards an AI Operations Platform. It underscores the ...</description>
+      <pubDate>Wed, 19 Nov 2025 14:05:56  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1bgDyOrAV7F1FNXqcYR-zG8yoWizKRwkI</guid>
+      <enclosure length="33498004" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1bgDyOrAV7F1FNXqcYR-zG8yoWizKRwkI"/>
+      <ns0:duration>00:34:53</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>893 - Openai Codex Cli From Broken Install To Multi Agent Orchestration Production Guide</title>
+      <description>The article's in-depth guide on utilizing OpenAI Codex for multi-agent orchestration offers actionable insights for Jaxon Digital's pivot to an AI Operations and SaaS model, focusing on agent orche...</description>
+      <pubDate>Wed, 19 Nov 2025 13:56:28  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=15j5gFlSdIzQEvLwX6P3mbmnGqqQpLgOi</guid>
+      <enclosure length="28949156" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15j5gFlSdIzQEvLwX6P3mbmnGqqQpLgOi"/>
+      <ns0:duration>00:30:09</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>890 - Building An Agentic Graph Rag System With Neo4j A Journey In Progress</title>
+      <description>The article's exploration of building an agentic Graph RAG system with Neo4j aligns closely with Jaxon Digital's focus on AI agent design and orchestration frameworks. Its innovative approach to le...</description>
+      <pubDate>Wed, 19 Nov 2025 13:49:12  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1gJfT_8sis-A5l329dW0sGRyk1h9COYOD</guid>
+      <enclosure length="4954506" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gJfT_8sis-A5l329dW0sGRyk1h9COYOD"/>
+      <ns0:duration>00:05:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
@@ -24,7 +87,7 @@
       <description>The comprehensive analysis of Google's 70-page document on context engineering offers critical insights for Jaxon Digital's transition to an AI Operations SaaS platform. It highlights the importanc...</description>
       <pubDate>Tue, 18 Nov 2025 15:24:14  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1T_qnw-gbsyrbt6jXq3iecfMyEiuCoJDk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1T_qnw-gbsyrbt6jXq3iecfMyEiuCoJDk" type="audio/mpeg" length="14237342"/>
+      <enclosure length="14237342" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1T_qnw-gbsyrbt6jXq3iecfMyEiuCoJDk"/>
       <ns0:duration>00:14:49</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -33,7 +96,7 @@
       <description>The analysis underscores the critical evolution of AI Product Manager roles, highlighting the necessity for technical prowess and hands-on project experience. This directly supports Jaxon Digital's...</description>
       <pubDate>Tue, 18 Nov 2025 15:52:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=18SgXucRQCQYJT10R10loLCADthR3VUtI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18SgXucRQCQYJT10R10loLCADthR3VUtI" type="audio/mpeg" length="12099952"/>
+      <enclosure length="12099952" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=18SgXucRQCQYJT10R10loLCADthR3VUtI"/>
       <ns0:duration>00:12:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -42,7 +105,7 @@
       <description>The article on MCP ecosystem developments is highly relevant to Jaxon Digital's AI agent initiatives, particularly in the context of agent orchestration, multi-tenant platform architecture, and mar...</description>
       <pubDate>Tue, 18 Nov 2025 15:50:05  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1W5SZk8lMTzjwOi3MAyRkTt3PzcKdaiLS</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W5SZk8lMTzjwOi3MAyRkTt3PzcKdaiLS" type="audio/mpeg" length="4770178"/>
+      <enclosure length="4770178" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1W5SZk8lMTzjwOi3MAyRkTt3PzcKdaiLS"/>
       <ns0:duration>00:04:58</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -51,7 +114,7 @@
       <description>The comprehensive analysis of the article on building a self-improving Agentic RAG system provides critical insights into agent orchestration, multi-agent workflows, and continuous improvement mech...</description>
       <pubDate>Tue, 18 Nov 2025 15:48:59  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1-bo21BxAIiC5KJ4ZtMRV7h__LTqhDMvy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-bo21BxAIiC5KJ4ZtMRV7h__LTqhDMvy" type="audio/mpeg" length="109925848"/>
+      <enclosure length="109925848" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1-bo21BxAIiC5KJ4ZtMRV7h__LTqhDMvy"/>
       <ns0:duration>01:54:30</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -60,7 +123,7 @@
       <description>The analysis highlights a significant opportunity for Jaxon Digital to address the gap between the potential and actual use of AI in business, by developing more effective, easily integrated AI sol...</description>
       <pubDate>Tue, 18 Nov 2025 15:29:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=19lbwse96zgNdWqP2R5HkNe9z3VB6uqzg</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19lbwse96zgNdWqP2R5HkNe9z3VB6uqzg" type="audio/mpeg" length="10454536"/>
+      <enclosure length="10454536" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=19lbwse96zgNdWqP2R5HkNe9z3VB6uqzg"/>
       <ns0:duration>00:10:53</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -69,7 +132,7 @@
       <description>The analysis underscores the strategic alignment of leveraging PostgreSQL enhanced with `pgvector` for vector database capabilities, directly supporting Jaxon Digital's pivot towards an AI Operatio...</description>
       <pubDate>Tue, 18 Nov 2025 15:27:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ETeulbV2oAvuu8z9ZrRgQbxb7swAc5W9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ETeulbV2oAvuu8z9ZrRgQbxb7swAc5W9" type="audio/mpeg" length="15569852"/>
+      <enclosure length="15569852" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ETeulbV2oAvuu8z9ZrRgQbxb7swAc5W9"/>
       <ns0:duration>00:16:12</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -78,7 +141,7 @@
       <description>The article on Knowledge Graphs (KGs) is highly relevant to Jaxon Digital's AI Operations Platform, particularly in enhancing AI agent design and orchestration frameworks. KGs' role in semantic und...</description>
       <pubDate>Tue, 18 Nov 2025 15:24:51  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1QQSPnlrV2YEAbS87LL4sRTSq9Iqe4F6u</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QQSPnlrV2YEAbS87LL4sRTSq9Iqe4F6u" type="audio/mpeg" length="3661190"/>
+      <enclosure length="3661190" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1QQSPnlrV2YEAbS87LL4sRTSq9Iqe4F6u"/>
       <ns0:duration>00:03:48</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -87,7 +150,7 @@
       <description>Article review - GAT-860</description>
       <pubDate>Mon, 17 Nov 2025 16:38:16  +0000</pubDate>
       <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3</guid>
-      <enclosure url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3" type="audio/mpeg" length="4987680"/>
+      <enclosure length="4987680" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3"/>
       <ns0:duration>00:04:09</ns0:duration>
       <ns0:author>Unknown</ns0:author>
     </item>
@@ -96,7 +159,7 @@
       <description>The article offers valuable insights into managing the inherent inconsistencies of LLM-based AI agents, which is directly relevant to Jaxon Digital's focus on building a robust AI Operations Platfo...</description>
       <pubDate>Mon, 17 Nov 2025 14:52:57  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1mNhYRlOmjeUIg3yHEASki_ooyLF4OHHS</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mNhYRlOmjeUIg3yHEASki_ooyLF4OHHS" type="audio/mpeg" length="7457082"/>
+      <enclosure length="7457082" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1mNhYRlOmjeUIg3yHEASki_ooyLF4OHHS"/>
       <ns0:duration>00:07:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -105,7 +168,7 @@
       <description>This article highlights critical limitations in current AI models that Jaxon Digital can address in its AI Operations Platform, specifically in improving agent design and learning systems.</description>
       <pubDate>Mon, 17 Nov 2025 14:51:03  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=17TAcFU5FGFkZpOLYV9rlu_9FGTsbDzQi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17TAcFU5FGFkZpOLYV9rlu_9FGTsbDzQi" type="audio/mpeg" length="10097814"/>
+      <enclosure length="10097814" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=17TAcFU5FGFkZpOLYV9rlu_9FGTsbDzQi"/>
       <ns0:duration>00:10:30</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -114,7 +177,7 @@
       <description>The article on OpenAI GPT 5.1's capabilities directly aligns with Jaxon Digital's focus on leveraging advanced AI for building more efficient and capable AI agents, particularly in coding and devel...</description>
       <pubDate>Mon, 17 Nov 2025 14:49:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=14TiatTfq2m1y24mZNRDHgH9AHnX1OSRK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14TiatTfq2m1y24mZNRDHgH9AHnX1OSRK" type="audio/mpeg" length="8919650"/>
+      <enclosure length="8919650" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=14TiatTfq2m1y24mZNRDHgH9AHnX1OSRK"/>
       <ns0:duration>00:09:17</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -123,7 +186,7 @@
       <description>The article provides critical insights into the practical application of AI agents in coding workflows, aligning perfectly with Jaxon Digital's shift towards an AI Operations SaaS platform. It high...</description>
       <pubDate>Mon, 17 Nov 2025 14:47:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1M6WOeWdRFLjRnGdjJCnTRZ3uVM1XB7wJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M6WOeWdRFLjRnGdjJCnTRZ3uVM1XB7wJ" type="audio/mpeg" length="12851112"/>
+      <enclosure length="12851112" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1M6WOeWdRFLjRnGdjJCnTRZ3uVM1XB7wJ"/>
       <ns0:duration>00:13:23</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -132,7 +195,7 @@
       <description>The article offers invaluable insights into agent orchestration, context management, and optimization strategies crucial for Jaxon Digital's transition to a SaaS AI Operations Platform. It highligh...</description>
       <pubDate>Mon, 17 Nov 2025 14:44:43  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1pVhfHgedTc1MbjJUghKyypqgmiz4zeTN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pVhfHgedTc1MbjJUghKyypqgmiz4zeTN" type="audio/mpeg" length="21451192"/>
+      <enclosure length="21451192" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1pVhfHgedTc1MbjJUghKyypqgmiz4zeTN"/>
       <ns0:duration>00:22:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -141,7 +204,7 @@
       <description>This article is highly relevant to Jaxon Digital's pivot towards AI Operations, offering deep insights into AI coding best practices that can enhance agent design and development.</description>
       <pubDate>Mon, 17 Nov 2025 14:40:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=13-oHiL-JUIQb1orp3aLrS9UD2xWUoD40</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13-oHiL-JUIQb1orp3aLrS9UD2xWUoD40" type="audio/mpeg" length="7818727"/>
+      <enclosure length="7818727" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13-oHiL-JUIQb1orp3aLrS9UD2xWUoD40"/>
       <ns0:duration>00:08:08</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -150,7 +213,7 @@
       <description>The article on Anthropic's Claude Code provides valuable insights into AI agent development, a core focus for Jaxon Digital's pivot towards an AI Operations Platform. The hands-on examples and best...</description>
       <pubDate>Mon, 17 Nov 2025 14:38:31  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1_6AxtRFZ0rc_LA-UT0qNmqBy66kSTuLp</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_6AxtRFZ0rc_LA-UT0qNmqBy66kSTuLp" type="audio/mpeg" length="9249576"/>
+      <enclosure length="9249576" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1_6AxtRFZ0rc_LA-UT0qNmqBy66kSTuLp"/>
       <ns0:duration>00:09:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -159,7 +222,7 @@
       <description>The analysis of 'Why Your Enterprise Needs Google Agent Space' article reveals its high relevance to Jaxon Digital's strategic pivot towards AI Operations and SaaS model, emphasizing the need for a...</description>
       <pubDate>Mon, 17 Nov 2025 14:36:43  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1TlupJWyD6qoxBjPNjfvkp4LNopbat8Sa</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TlupJWyD6qoxBjPNjfvkp4LNopbat8Sa" type="audio/mpeg" length="12229720"/>
+      <enclosure length="12229720" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1TlupJWyD6qoxBjPNjfvkp4LNopbat8Sa"/>
       <ns0:duration>00:12:44</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -168,7 +231,7 @@
       <description>The article on practical coding with AI assistance is highly relevant to Jaxon Digital's strategic pivot towards AI Operations, emphasizing the need for hybrid coding workflows and human-AI collabo...</description>
       <pubDate>Mon, 17 Nov 2025 14:34:45  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ilO_yShTUTmW3VW5JlIqOGqPeVWjxYbO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ilO_yShTUTmW3VW5JlIqOGqPeVWjxYbO" type="audio/mpeg" length="12597958"/>
+      <enclosure length="12597958" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ilO_yShTUTmW3VW5JlIqOGqPeVWjxYbO"/>
       <ns0:duration>00:13:07</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -177,7 +240,7 @@
       <description>The analysis of the article on specialized Claude Code subagents provides critical insights for Jaxon Digital's transition to a SaaS platform for AI Operations, emphasizing the importance of specia...</description>
       <pubDate>Mon, 17 Nov 2025 13:18:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=11SeD6Z2WesagPWTfG9l7N5uSfGtoPYXC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11SeD6Z2WesagPWTfG9l7N5uSfGtoPYXC" type="audio/mpeg" length="41712176"/>
+      <enclosure length="41712176" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=11SeD6Z2WesagPWTfG9l7N5uSfGtoPYXC"/>
       <ns0:duration>00:43:26</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -186,7 +249,7 @@
       <description>The article highlights the potential of multi-agent systems in software development, aligning with Jaxon Digital's focus on AI agent orchestration and platform scalability.</description>
       <pubDate>Mon, 17 Nov 2025 13:02:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Z48nLMoqXCDyS5iz9CU7Rz3YFZWDzEkc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z48nLMoqXCDyS5iz9CU7Rz3YFZWDzEkc" type="audio/mpeg" length="3274886"/>
+      <enclosure length="3274886" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Z48nLMoqXCDyS5iz9CU7Rz3YFZWDzEkc"/>
       <ns0:duration>00:03:24</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -195,7 +258,7 @@
       <description>The article highlights an innovative approach to enhancing AI development workflows through the automation of CLAUDE.md files, presenting a significant opportunity for Jaxon Digital's transformatio...</description>
       <pubDate>Mon, 17 Nov 2025 13:01:37  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1AvNygLKVPYE5TUsGxlxEQyidqEbGopsA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AvNygLKVPYE5TUsGxlxEQyidqEbGopsA" type="audio/mpeg" length="13893278"/>
+      <enclosure length="13893278" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1AvNygLKVPYE5TUsGxlxEQyidqEbGopsA"/>
       <ns0:duration>00:14:28</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -204,7 +267,7 @@
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, particularly in the context of leveraging OpenAI Codex to enhance coding efficiency and agent development practices.</description>
       <pubDate>Mon, 17 Nov 2025 12:59:08  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1X62Y7y-aDbslHvpwLdiRBKYRgztYxSaN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X62Y7y-aDbslHvpwLdiRBKYRgztYxSaN" type="audio/mpeg" length="8228427"/>
+      <enclosure length="8228427" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1X62Y7y-aDbslHvpwLdiRBKYRgztYxSaN"/>
       <ns0:duration>00:08:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -213,7 +276,7 @@
       <description>The article provides a comprehensive guide on building AI agents using Go, focusing on integrating tools and external services simply. Its emphasis on agent design patterns, tool integration, and M...</description>
       <pubDate>Mon, 17 Nov 2025 12:57:06  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1pounBqJ2abheMZY83cz05k5zystwWkQi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pounBqJ2abheMZY83cz05k5zystwWkQi" type="audio/mpeg" length="7886356"/>
+      <enclosure length="7886356" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1pounBqJ2abheMZY83cz05k5zystwWkQi"/>
       <ns0:duration>00:08:12</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -222,7 +285,7 @@
       <description>The article on context engineering for AI coding agents is highly relevant to Jaxon Digital's strategic shift towards an AI Operations SaaS platform, providing critical insights into enhancing AI a...</description>
       <pubDate>Mon, 17 Nov 2025 12:55:05  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1KCJOOn2Y8Ufoy7yq2GWyHEuDqQC7kb03</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KCJOOn2Y8Ufoy7yq2GWyHEuDqQC7kb03" type="audio/mpeg" length="27668520"/>
+      <enclosure length="27668520" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1KCJOOn2Y8Ufoy7yq2GWyHEuDqQC7kb03"/>
       <ns0:duration>00:28:49</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -231,7 +294,7 @@
       <description>The article's introduction of Beads, a novel memory system for coding agents, is highly relevant to Jaxon Digital's strategic pivot towards an AI Operations Platform. It addresses crucial aspects o...</description>
       <pubDate>Mon, 17 Nov 2025 12:50:02  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1y9yEljo_YfoXUDa6FcNOnfszBueAcWWY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y9yEljo_YfoXUDa6FcNOnfszBueAcWWY" type="audio/mpeg" length="29856092"/>
+      <enclosure length="29856092" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1y9yEljo_YfoXUDa6FcNOnfszBueAcWWY"/>
       <ns0:duration>00:31:05</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -240,7 +303,7 @@
       <description>The article on MCP's three core capabilities is highly relevant to Jaxon Digital's AI agent initiatives, especially in the context of building a more secure, flexible, and intelligent AI operations...</description>
       <pubDate>Mon, 17 Nov 2025 12:44:45  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1d54UY3gUbMBLxoikCfq73SY6R9O1Yypw</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d54UY3gUbMBLxoikCfq73SY6R9O1Yypw" type="audio/mpeg" length="4745968"/>
+      <enclosure length="4745968" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1d54UY3gUbMBLxoikCfq73SY6R9O1Yypw"/>
       <ns0:duration>00:04:56</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -249,7 +312,7 @@
       <description>The article on Agentic Engineering and Multi-Agent Orchestration provides critical insights and methodologies that align with Jaxon Digital's strategic pivot towards an AI Operations platform, emph...</description>
       <pubDate>Sun, 16 Nov 2025 16:21:30  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1XvEDAZvB4HzDmYxSUUuNJ5jdJZL3nFUK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XvEDAZvB4HzDmYxSUUuNJ5jdJZL3nFUK" type="audio/mpeg" length="21849740"/>
+      <enclosure length="21849740" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1XvEDAZvB4HzDmYxSUUuNJ5jdJZL3nFUK"/>
       <ns0:duration>00:22:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -258,7 +321,7 @@
       <description>The article's focus on the necessity for AI skills among PMs directly supports Jaxon Digital's strategic pivot towards an AI Operations Platform, emphasizing the importance of AI fluency and techni...</description>
       <pubDate>Sun, 16 Nov 2025 16:17:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=15CbMXii8TF_ORCCPvo_NGWKZsdB1Vh7G</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15CbMXii8TF_ORCCPvo_NGWKZsdB1Vh7G" type="audio/mpeg" length="11145770"/>
+      <enclosure length="11145770" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15CbMXii8TF_ORCCPvo_NGWKZsdB1Vh7G"/>
       <ns0:duration>00:11:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -267,7 +330,7 @@
       <description>The article on Google's Gemini CLI upgrade is highly relevant to Jaxon Digital's AI agent initiatives, particularly in enhancing agent orchestration frameworks and AI agent design patterns.</description>
       <pubDate>Sun, 16 Nov 2025 16:15:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Q64xfoYOGMzNoiVbGv5wkb69gJBlZvpj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q64xfoYOGMzNoiVbGv5wkb69gJBlZvpj" type="audio/mpeg" length="5378037"/>
+      <enclosure length="5378037" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Q64xfoYOGMzNoiVbGv5wkb69gJBlZvpj"/>
       <ns0:duration>00:05:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -276,7 +339,7 @@
       <description>The article introduces TOON, a data format that significantly reduces LLM token costs, which is highly relevant for Jaxon Digital's AI agent initiatives, especially in optimizing operational costs ...</description>
       <pubDate>Sun, 16 Nov 2025 16:14:47  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1tTL2-PAMEkoL95dBptE7BwyIIiE1c7x0</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tTL2-PAMEkoL95dBptE7BwyIIiE1c7x0" type="audio/mpeg" length="6280058"/>
+      <enclosure length="6280058" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tTL2-PAMEkoL95dBptE7BwyIIiE1c7x0"/>
       <ns0:duration>00:06:32</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -285,7 +348,7 @@
       <description>The article highlights the potential of 'vibe coding' powered by AI in accelerating the development process from idea to production, which aligns with Jaxon Digital's focus on AI agent initiatives ...</description>
       <pubDate>Sun, 16 Nov 2025 16:13:44  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1qhIQO64WTk7SwTOlNCJbvzvAoR_v3Xap</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qhIQO64WTk7SwTOlNCJbvzvAoR_v3Xap" type="audio/mpeg" length="6396390"/>
+      <enclosure length="6396390" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1qhIQO64WTk7SwTOlNCJbvzvAoR_v3Xap"/>
       <ns0:duration>00:06:39</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -294,7 +357,7 @@
       <description>The article's discussion on TOON vs. JSON for data formatting in AI applications is highly relevant to Jaxon Digital's pivot towards AI Operations. It highlights critical considerations for optimiz...</description>
       <pubDate>Sun, 16 Nov 2025 16:12:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1EYO_PDLe7_6aSc-QDI97HZSnRdspNaEY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EYO_PDLe7_6aSc-QDI97HZSnRdspNaEY" type="audio/mpeg" length="5093122"/>
+      <enclosure length="5093122" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1EYO_PDLe7_6aSc-QDI97HZSnRdspNaEY"/>
       <ns0:duration>00:05:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -303,7 +366,7 @@
       <description>The article's deep dive into agentic design patterns is highly relevant to Jaxon Digital's strategic shift towards AI Operations and agent orchestration, offering a comprehensive guide to enhancing...</description>
       <pubDate>Sun, 16 Nov 2025 16:11:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1oJ49A_CfyAS45-6ChxFzHOEvQ22FSLh2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oJ49A_CfyAS45-6ChxFzHOEvQ22FSLh2" type="audio/mpeg" length="20394714"/>
+      <enclosure length="20394714" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1oJ49A_CfyAS45-6ChxFzHOEvQ22FSLh2"/>
       <ns0:duration>00:21:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -312,7 +375,7 @@
       <description>The Context7 tool's integration into Python development, highlighted for its AI code generation enhancements, is directly aligned with Jaxon Digital's strategic shift towards an AI Operations platf...</description>
       <pubDate>Sun, 16 Nov 2025 16:07:12  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=19QaVwWRHRurHtZx_ZHFwiFhI6yd3dcwY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19QaVwWRHRurHtZx_ZHFwiFhI6yd3dcwY" type="audio/mpeg" length="18059658"/>
+      <enclosure length="18059658" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=19QaVwWRHRurHtZx_ZHFwiFhI6yd3dcwY"/>
       <ns0:duration>00:18:48</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -321,7 +384,7 @@
       <description>The comprehensive analysis of FinOps for AI agents underscores critical facets for Jaxon Digital's transition to an AI Operations SaaS platform, emphasizing cost-efficient deployment, optimization ...</description>
       <pubDate>Sun, 16 Nov 2025 16:03:39  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1uGh-GXtsSBxamOKPRqV8E0SaFnw2b-ME</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uGh-GXtsSBxamOKPRqV8E0SaFnw2b-ME" type="audio/mpeg" length="24312616"/>
+      <enclosure length="24312616" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1uGh-GXtsSBxamOKPRqV8E0SaFnw2b-ME"/>
       <ns0:duration>00:25:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -330,7 +393,7 @@
       <description>The article on Cursor 2.0's new features is highly relevant to Jaxon Digital's AI agent initiatives, particularly in enhancing agent orchestration and multi-agent systems. The introduction of a mul...</description>
       <pubDate>Sun, 16 Nov 2025 15:58:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=120sDrJxreFNnDb1I99ySxc9kMMNMR0dl</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=120sDrJxreFNnDb1I99ySxc9kMMNMR0dl" type="audio/mpeg" length="5326942"/>
+      <enclosure length="5326942" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=120sDrJxreFNnDb1I99ySxc9kMMNMR0dl"/>
       <ns0:duration>00:05:32</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -339,7 +402,7 @@
       <description>The article showcases advanced AI development techniques directly aligned with Jaxon Digital's focus on building a robust AI Operations Platform, especially highlighting the use of LangGraph, which...</description>
       <pubDate>Sun, 16 Nov 2025 15:57:34  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1rQes87yxHIApcWySL3bdgZp68recrge1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQes87yxHIApcWySL3bdgZp68recrge1" type="audio/mpeg" length="8599824"/>
+      <enclosure length="8599824" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1rQes87yxHIApcWySL3bdgZp68recrge1"/>
       <ns0:duration>00:08:57</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -348,7 +411,7 @@
       <description>GAT-810</description>
       <pubDate>Fri, 14 Nov 2025 12:10:37  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Gi2NHylPZg97RxucobIcD6b4Z10LPBtB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gi2NHylPZg97RxucobIcD6b4Z10LPBtB" type="audio/mpeg" length="20016202"/>
+      <enclosure length="20016202" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Gi2NHylPZg97RxucobIcD6b4Z10LPBtB"/>
       <ns0:duration>00:16:40</ns0:duration>
       <ns0:author>Jaxon Research</ns0:author>
     </item>
@@ -357,7 +420,7 @@
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:25:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1nuN806NGzceCPWWfTmN4hILQnwwjnPGY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nuN806NGzceCPWWfTmN4hILQnwwjnPGY" type="audio/mpeg" length="18312189"/>
+      <enclosure length="18312189" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1nuN806NGzceCPWWfTmN4hILQnwwjnPGY"/>
       <ns0:duration>00:19:04</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -366,7 +429,7 @@
       <description>The article's focus on a prototype-first development approach using AI tools aligns closely with Jaxon Digital's strategic pivot towards AI Operations and agent orchestration frameworks. It undersc...</description>
       <pubDate>Fri, 14 Nov 2025 11:37:24  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1MHLCRi-Mi1UULklY_79gPSBXHB19taAJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MHLCRi-Mi1UULklY_79gPSBXHB19taAJ" type="audio/mpeg" length="5672530"/>
+      <enclosure length="5672530" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1MHLCRi-Mi1UULklY_79gPSBXHB19taAJ"/>
       <ns0:duration>00:05:54</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -375,7 +438,7 @@
       <description>The article details a new coding model, SWE-1.5, which significantly outperforms its predecessor in speed and efficiency, relevant to Jaxon's AI agent initiatives focusing on development speed and ...</description>
       <pubDate>Fri, 14 Nov 2025 11:36:05  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=13NpjDet8wxh4Uum6M7pvHVwV4OwWWkT5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13NpjDet8wxh4Uum6M7pvHVwV4OwWWkT5" type="audio/mpeg" length="4049790"/>
+      <enclosure length="4049790" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13NpjDet8wxh4Uum6M7pvHVwV4OwWWkT5"/>
       <ns0:duration>00:04:13</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -384,7 +447,7 @@
       <description>The article provides critical insights into building resilient, scalable AI agents with advanced techniques in state management, persistence, and optimization, directly aligning with Jaxon Digital'...</description>
       <pubDate>Thu, 13 Nov 2025 15:48:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ZbzEzKmDttqRCDFl5juI7EC9f7YwpHtJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZbzEzKmDttqRCDFl5juI7EC9f7YwpHtJ" type="audio/mpeg" length="21867016"/>
+      <enclosure length="21867016" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ZbzEzKmDttqRCDFl5juI7EC9f7YwpHtJ"/>
       <ns0:duration>00:22:46</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -393,7 +456,7 @@
       <description>The article on vLLM TPU's unification of PyTorch and JAX on Google TPUs is highly relevant to Jaxon Digital's AI agent initiatives, offering insights into performance optimization and platform scal...</description>
       <pubDate>Thu, 13 Nov 2025 16:06:24  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1dhrt7pdUPylHMN3WxyUwvw9Un8Wmlwy7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dhrt7pdUPylHMN3WxyUwvw9Un8Wmlwy7" type="audio/mpeg" length="6461280"/>
+      <enclosure length="6461280" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1dhrt7pdUPylHMN3WxyUwvw9Un8Wmlwy7"/>
       <ns0:duration>00:06:43</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -402,7 +465,7 @@
       <description>The comprehensive review of Kimi K2 Thinking provides crucial insights into AI model capabilities, architecture, and applications that are highly pertinent to Jaxon Digital's transition to a SaaS p...</description>
       <pubDate>Thu, 13 Nov 2025 16:04:49  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1RR8Kv6ofwr1w4XzSbmMlfG-pztiNOagv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RR8Kv6ofwr1w4XzSbmMlfG-pztiNOagv" type="audio/mpeg" length="24002734"/>
+      <enclosure length="24002734" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1RR8Kv6ofwr1w4XzSbmMlfG-pztiNOagv"/>
       <ns0:duration>00:25:00</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -411,7 +474,7 @@
       <description>The article's insights into Claude Skills and their role in optimizing LLMs' context windows are highly relevant to Jaxon Digital's transition towards a SaaS platform for AI Operations. It undersco...</description>
       <pubDate>Thu, 13 Nov 2025 16:00:25  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1drBh1SckO6_jS_MrsiZhhV150A--1M5U</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1drBh1SckO6_jS_MrsiZhhV150A--1M5U" type="audio/mpeg" length="13546126"/>
+      <enclosure length="13546126" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1drBh1SckO6_jS_MrsiZhhV150A--1M5U"/>
       <ns0:duration>00:14:06</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -420,7 +483,7 @@
       <description>The article's exploration of context engineering for AI agents provides critical insights and actionable strategies for Jaxon Digital's transition to a SaaS platform specializing in AI Operations. ...</description>
       <pubDate>Thu, 13 Nov 2025 15:57:50  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1YbkeDn7wbGHFOqEbmGMF5Vsm_NZP8Rkb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YbkeDn7wbGHFOqEbmGMF5Vsm_NZP8Rkb" type="audio/mpeg" length="14886650"/>
+      <enclosure length="14886650" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1YbkeDn7wbGHFOqEbmGMF5Vsm_NZP8Rkb"/>
       <ns0:duration>00:15:30</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -429,7 +492,7 @@
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, focusing on simplifying AI system complexity through essential workflow patterns. It aligns with Jaxon's strategic shift tow...</description>
       <pubDate>Thu, 13 Nov 2025 15:54:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=13Y9togwM1RB4M0MkUhalyl6C_U0ctn40</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13Y9togwM1RB4M0MkUhalyl6C_U0ctn40" type="audio/mpeg" length="9365556"/>
+      <enclosure length="9365556" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13Y9togwM1RB4M0MkUhalyl6C_U0ctn40"/>
       <ns0:duration>00:09:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -438,7 +501,7 @@
       <description>This article directly aligns with Jaxon Digital's focus on AI agent design patterns and best practices, crucial for enhancing our AI Operations Platform. It offers actionable insights into designin...</description>
       <pubDate>Thu, 13 Nov 2025 15:53:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=16cGFnuO7F_GiwhHxHJA7iUsBtQ4d9vrf</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16cGFnuO7F_GiwhHxHJA7iUsBtQ4d9vrf" type="audio/mpeg" length="7741198"/>
+      <enclosure length="7741198" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=16cGFnuO7F_GiwhHxHJA7iUsBtQ4d9vrf"/>
       <ns0:duration>00:08:03</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -447,7 +510,7 @@
       <description>The article on building an MCP server provides critical insights and practical examples relevant to Jaxon Digital's transformation into a SaaS platform for AI Operations. It aligns with Jaxon's str...</description>
       <pubDate>Thu, 13 Nov 2025 15:51:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jU-Ydv4-pmvOrZ_s40SAa7G189FRzE43</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jU-Ydv4-pmvOrZ_s40SAa7G189FRzE43" type="audio/mpeg" length="19113300"/>
+      <enclosure length="19113300" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jU-Ydv4-pmvOrZ_s40SAa7G189FRzE43"/>
       <ns0:duration>00:19:54</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -456,7 +519,7 @@
       <description>The Google ADK Visual Agent Builder article is critically relevant to Jaxon Digital's strategic pivot towards an AI Operations SaaS platform, offering insights into simplifying AI agent development...</description>
       <pubDate>Thu, 13 Nov 2025 15:25:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1wFIjYJzFOZU3o8fvA-KAZpDbWT8HI9Sj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wFIjYJzFOZU3o8fvA-KAZpDbWT8HI9Sj" type="audio/mpeg" length="18234752"/>
+      <enclosure length="18234752" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1wFIjYJzFOZU3o8fvA-KAZpDbWT8HI9Sj"/>
       <ns0:duration>00:18:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -465,7 +528,7 @@
       <description>The article's detailed exploration of AI agents across varying levels of complexity offers actionable insights into agent design patterns and best practices, directly aligning with Jaxon Digital's ...</description>
       <pubDate>Thu, 13 Nov 2025 15:22:36  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1V7_QV1aC2z3XqFTyvq3UmitBgIH-TzpI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V7_QV1aC2z3XqFTyvq3UmitBgIH-TzpI" type="audio/mpeg" length="11227906"/>
+      <enclosure length="11227906" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1V7_QV1aC2z3XqFTyvq3UmitBgIH-TzpI"/>
       <ns0:duration>00:11:41</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -474,7 +537,7 @@
       <description>Article review - How to Choose the Right LLM for Your Projects</description>
       <pubDate>Wed, 12 Nov 2025 15:33:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1qg_Gd5WtHLgcUO15pg7C_OzEZojXeyxP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qg_Gd5WtHLgcUO15pg7C_OzEZojXeyxP" type="audio/mpeg" length="5082416"/>
+      <enclosure length="5082416" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1qg_Gd5WtHLgcUO15pg7C_OzEZojXeyxP"/>
       <ns0:duration>00:04:14</ns0:duration>
       <ns0:author>Surya Teja Appini (FreeCodeCamp)</ns0:author>
     </item>
@@ -483,7 +546,7 @@
       <description>The article on Airweave introduces a novel context layer for AI agents, directly aligning with Jaxon Digital's focus on enhancing AI Operations. Its potential to streamline agent access to data acr...</description>
       <pubDate>Wed, 12 Nov 2025 12:03:37  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=17oRRubsUAWqaf0JGX2Y6c4L5Gq_Hp4Gb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17oRRubsUAWqaf0JGX2Y6c4L5Gq_Hp4Gb" type="audio/mpeg" length="5409120"/>
+      <enclosure length="5409120" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=17oRRubsUAWqaf0JGX2Y6c4L5Gq_Hp4Gb"/>
       <ns0:duration>00:05:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -492,7 +555,7 @@
       <description>The article's comprehensive exploration of Claude Code subagents and their integration into software development processes offers significant strategic alignment with Jaxon Digital's pivot towards ...</description>
       <pubDate>Wed, 12 Nov 2025 12:02:36  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1j9Ms2QmbJM8Fw3l_n-deRJM0ECVNolKI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j9Ms2QmbJM8Fw3l_n-deRJM0ECVNolKI" type="audio/mpeg" length="40933414"/>
+      <enclosure length="40933414" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1j9Ms2QmbJM8Fw3l_n-deRJM0ECVNolKI"/>
       <ns0:duration>00:42:38</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -501,7 +564,7 @@
       <description>The integration of Knowledge Graphs (KGs) with Large Language Models (LLMs) is crucial for enhancing the AI reliability and trustworthiness of Jaxon Digital's evolving AI Operations Platform. This ...</description>
       <pubDate>Wed, 12 Nov 2025 11:52:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1EqYrJD36SEkp0avnDlf5UF6JsTnKhflN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EqYrJD36SEkp0avnDlf5UF6JsTnKhflN" type="audio/mpeg" length="13472392"/>
+      <enclosure length="13472392" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1EqYrJD36SEkp0avnDlf5UF6JsTnKhflN"/>
       <ns0:duration>00:14:01</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -510,7 +573,7 @@
       <description>The article underscores the critical importance of AI in the current and future job market, aligning with Jaxon Digital's pivot towards AI Operations. It highlights the necessity for upskilling in ...</description>
       <pubDate>Wed, 12 Nov 2025 11:49:42  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1mmlcVaESOJQuH_XoziuSBQEUPk2sV5N1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mmlcVaESOJQuH_XoziuSBQEUPk2sV5N1" type="audio/mpeg" length="6879092"/>
+      <enclosure length="6879092" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1mmlcVaESOJQuH_XoziuSBQEUPk2sV5N1"/>
       <ns0:duration>00:07:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -519,7 +582,7 @@
       <description>The article provides a deep dive into two methodologies for AI-driven development, which is highly relevant for Jaxon Digital's pivot towards AI Operations. It offers insights into structured AI de...</description>
       <pubDate>Wed, 12 Nov 2025 11:48:27  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1v8FRoN0XAO4xkx6kE2YLQz0_5F9Ignve</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v8FRoN0XAO4xkx6kE2YLQz0_5F9Ignve" type="audio/mpeg" length="7384448"/>
+      <enclosure length="7384448" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1v8FRoN0XAO4xkx6kE2YLQz0_5F9Ignve"/>
       <ns0:duration>00:07:41</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -528,7 +591,7 @@
       <description>The analysis of GPT-6's development and its implications for AI safety, interpretability, and advanced agent design patterns is highly relevant to Jaxon Digital's transition towards a SaaS AI Opera...</description>
       <pubDate>Wed, 12 Nov 2025 11:46:43  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1afRfO5X3pjYtcEqJ3pjMF3i6ES23Fx2t</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1afRfO5X3pjYtcEqJ3pjMF3i6ES23Fx2t" type="audio/mpeg" length="12374078"/>
+      <enclosure length="12374078" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1afRfO5X3pjYtcEqJ3pjMF3i6ES23Fx2t"/>
       <ns0:duration>00:12:53</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -537,7 +600,7 @@
       <description>The article on Claude Code Subagents presents a significant relevance to Jaxon Digital's AI agent initiatives, especially in the context of agent orchestration frameworks and AI agent design patter...</description>
       <pubDate>Wed, 12 Nov 2025 11:44:35  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1dC6BiZdPao3zaF6lkp3JEpnrZAM3tM4W</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dC6BiZdPao3zaF6lkp3JEpnrZAM3tM4W" type="audio/mpeg" length="7540332"/>
+      <enclosure length="7540332" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1dC6BiZdPao3zaF6lkp3JEpnrZAM3tM4W"/>
       <ns0:duration>00:07:51</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -546,7 +609,7 @@
       <description>The article's discussion on Kimi K2's advanced AI capabilities, including its MoE architecture and efficient model scaling, is highly relevant to Jaxon Digital's focus on building a competitive AI ...</description>
       <pubDate>Wed, 12 Nov 2025 11:41:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1SDYJRX7YzEhAd21peYbmxuSKZQMA3Ac4</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SDYJRX7YzEhAd21peYbmxuSKZQMA3Ac4" type="audio/mpeg" length="12229314"/>
+      <enclosure length="12229314" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1SDYJRX7YzEhAd21peYbmxuSKZQMA3Ac4"/>
       <ns0:duration>00:12:44</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -555,7 +618,7 @@
       <description>The article provides a comprehensive overview of AI tools that can significantly enhance Jaxon Digital's transformation into a SaaS platform for AI Operations, by offering insights into market tren...</description>
       <pubDate>Wed, 12 Nov 2025 11:39:13  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jV1oUstuTYMNbdjNu5G_kD4Ur8w1QLIQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jV1oUstuTYMNbdjNu5G_kD4Ur8w1QLIQ" type="audio/mpeg" length="40516318"/>
+      <enclosure length="40516318" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jV1oUstuTYMNbdjNu5G_kD4Ur8w1QLIQ"/>
       <ns0:duration>00:42:12</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -564,7 +627,7 @@
       <description>This article provides deep insights into the evolving role of AI Product Managers, highlighting the unique challenges and skills required in AI product development and management. It's highly relev...</description>
       <pubDate>Tue, 11 Nov 2025 13:06:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=18pJMZEM8VWuqd4JBhqF1YIdLC6GZuynO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18pJMZEM8VWuqd4JBhqF1YIdLC6GZuynO" type="audio/mpeg" length="9988738"/>
+      <enclosure length="9988738" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=18pJMZEM8VWuqd4JBhqF1YIdLC6GZuynO"/>
       <ns0:duration>00:10:24</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -573,7 +636,7 @@
       <description>The article on Sora MCP Server's impact on AI video workflows is highly relevant to Jaxon Digital's pivot towards an AI Operations SaaS platform. It showcases the potential of Model Context Protoco...</description>
       <pubDate>Tue, 11 Nov 2025 13:09:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ghqA1VWG2EfxK5CXZ3cVqKz0ynyObA9b</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ghqA1VWG2EfxK5CXZ3cVqKz0ynyObA9b" type="audio/mpeg" length="6093082"/>
+      <enclosure length="6093082" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ghqA1VWG2EfxK5CXZ3cVqKz0ynyObA9b"/>
       <ns0:duration>00:06:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -582,7 +645,7 @@
       <description>The article highlights the evolution of development environments towards more intuitive, AI-driven interfaces, which aligns with Jaxon Digital's focus on AI Operations and agent orchestration. The ...</description>
       <pubDate>Tue, 11 Nov 2025 13:08:30  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1NvcZCZ3rBo9Z7J7CCUAbBzGo8VWlXsJh</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NvcZCZ3rBo9Z7J7CCUAbBzGo8VWlXsJh" type="audio/mpeg" length="7323364"/>
+      <enclosure length="7323364" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1NvcZCZ3rBo9Z7J7CCUAbBzGo8VWlXsJh"/>
       <ns0:duration>00:07:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -591,7 +654,7 @@
       <description>The article on Claude Code and Git Worktrees is highly relevant to Jaxon Digital's AI agent initiatives, especially in the context of scaling AI operations and optimizing agent orchestration framew...</description>
       <pubDate>Tue, 11 Nov 2025 13:07:13  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1sdNlLl_06IVuClW0lqFWlnp1jX4NY6sX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sdNlLl_06IVuClW0lqFWlnp1jX4NY6sX" type="audio/mpeg" length="4982074"/>
+      <enclosure length="4982074" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1sdNlLl_06IVuClW0lqFWlnp1jX4NY6sX"/>
       <ns0:duration>00:05:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -600,7 +663,7 @@
       <description>The Model Context Protocol (MCP) directly impacts Jaxon Digital's AI agent initiatives by simplifying the integration of AI models with external data sources, which is crucial for developing more e...</description>
       <pubDate>Tue, 11 Nov 2025 12:08:49  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ZC3GoPFMx4Zmh9_btdHKo1tYBAdCHzdN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZC3GoPFMx4Zmh9_btdHKo1tYBAdCHzdN" type="audio/mpeg" length="4219086"/>
+      <enclosure length="4219086" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ZC3GoPFMx4Zmh9_btdHKo1tYBAdCHzdN"/>
       <ns0:duration>00:04:23</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -609,7 +672,7 @@
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, particularly in the context of agent orchestration and multi-tenant platform architecture. It provides a practical guide to ...</description>
       <pubDate>Tue, 11 Nov 2025 12:08:02  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1S7uHtlV-73mOEDBnjmYR0xK9zbbie7Z1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S7uHtlV-73mOEDBnjmYR0xK9zbbie7Z1" type="audio/mpeg" length="4413038"/>
+      <enclosure length="4413038" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1S7uHtlV-73mOEDBnjmYR0xK9zbbie7Z1"/>
       <ns0:duration>00:04:35</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -618,7 +681,7 @@
       <description>The article on SuperClaude presents a significant advancement in AI-driven development workflows, directly aligning with Jaxon Digital's focus on AI Operations and agent orchestration frameworks. I...</description>
       <pubDate>Tue, 11 Nov 2025 12:07:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1nSAXIURnsVqUPcoW4J_dXZkd3zd6lxRL</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nSAXIURnsVqUPcoW4J_dXZkd3zd6lxRL" type="audio/mpeg" length="6053504"/>
+      <enclosure length="6053504" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1nSAXIURnsVqUPcoW4J_dXZkd3zd6lxRL"/>
       <ns0:duration>00:06:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -627,7 +690,7 @@
       <description>The Kimi K2 Thinking model represents a significant leap in AI agent capabilities, emphasizing agentic intelligence and long-horizon reasoning, which aligns with Jaxon Digital's focus on building a...</description>
       <pubDate>Mon, 10 Nov 2025 14:55:22  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1psW_vP3KnsIa1UNXt27UPqaA-WduhCi7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1psW_vP3KnsIa1UNXt27UPqaA-WduhCi7" type="audio/mpeg" length="10341638"/>
+      <enclosure length="10341638" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1psW_vP3KnsIa1UNXt27UPqaA-WduhCi7"/>
       <ns0:duration>00:10:46</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -636,7 +699,7 @@
       <description>The article's comprehensive exploration of hierarchical memory, adaptive state management, and agent customization provides critical insights for Jaxon Digital's transition to a SaaS platform for A...</description>
       <pubDate>Mon, 10 Nov 2025 14:53:37  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1IgFyrw6oQ-2chk-wPoABX8KQo9dn2O2u</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IgFyrw6oQ-2chk-wPoABX8KQo9dn2O2u" type="audio/mpeg" length="29773186"/>
+      <enclosure length="29773186" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1IgFyrw6oQ-2chk-wPoABX8KQo9dn2O2u"/>
       <ns0:duration>00:31:00</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -645,7 +708,7 @@
       <description>The comprehensive analysis of the article on building a training architecture for self-improving AI agents offers pivotal insights and methodologies directly applicable to Jaxon Digital's strategic...</description>
       <pubDate>Mon, 10 Nov 2025 14:47:19  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ar-6zA2EIxkMW3ul0qbUtbNwkw-wKw2b</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ar-6zA2EIxkMW3ul0qbUtbNwkw-wKw2b" type="audio/mpeg" length="125047034"/>
+      <enclosure length="125047034" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ar-6zA2EIxkMW3ul0qbUtbNwkw-wKw2b"/>
       <ns0:duration>02:10:15</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -654,7 +717,7 @@
       <description>The article on Nested Learning introduces a novel ML paradigm that aligns closely with Jaxon Digital's focus on AI Operations and agent design, offering potential advancements in continual learning...</description>
       <pubDate>Mon, 10 Nov 2025 14:13:37  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=10LcPMsfatReOC6SD9K9vRMBZydSPI3kJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10LcPMsfatReOC6SD9K9vRMBZydSPI3kJ" type="audio/mpeg" length="8213144"/>
+      <enclosure length="8213144" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=10LcPMsfatReOC6SD9K9vRMBZydSPI3kJ"/>
       <ns0:duration>00:08:33</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -663,7 +726,7 @@
       <description>The comparison between GPT-5 Codex and Claude Sonnet 4.5 is highly relevant to Jaxon Digital's AI agent initiatives, particularly in understanding the latest advancements in AI technologies that co...</description>
       <pubDate>Sun, 09 Nov 2025 21:38:57  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1t6ERrv0GL5Q0hmcBc2gLIfsGdb4rh4OG</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t6ERrv0GL5Q0hmcBc2gLIfsGdb4rh4OG" type="audio/mpeg" length="17279866"/>
+      <enclosure length="17279866" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1t6ERrv0GL5Q0hmcBc2gLIfsGdb4rh4OG"/>
       <ns0:duration>00:14:23</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -672,7 +735,7 @@
       <description>The comprehensive guide on Claude Code's sub-agents offers critical insights into developing specialized AI assistants for task-specific expertise, directly aligning with Jaxon Digital's strategic ...</description>
       <pubDate>Sun, 09 Nov 2025 21:38:57  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Bej9de1V0FYaFHGEupBTVbdS9BxRqkjm</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Bej9de1V0FYaFHGEupBTVbdS9BxRqkjm" type="audio/mpeg" length="19487392"/>
+      <enclosure length="19487392" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Bej9de1V0FYaFHGEupBTVbdS9BxRqkjm"/>
       <ns0:duration>00:16:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -681,7 +744,7 @@
       <description>The article on 'Design Patterns in MCP Thoughtboxes' is highly relevant to Jaxon Digital's AI agent initiatives, particularly in the context of AI agent design patterns and best practices. It offer...</description>
       <pubDate>Sun, 09 Nov 2025 21:38:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1tiyQtxuPaQM2pho1x7W3edxFMh40CFJP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tiyQtxuPaQM2pho1x7W3edxFMh40CFJP" type="audio/mpeg" length="19804656"/>
+      <enclosure length="19804656" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tiyQtxuPaQM2pho1x7W3edxFMh40CFJP"/>
       <ns0:duration>00:16:30</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -690,7 +753,7 @@
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:22:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1fEOPSph8_heqqgKrH7llGauNfLgzzsV_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fEOPSph8_heqqgKrH7llGauNfLgzzsV_" type="audio/mpeg" length="23087085"/>
+      <enclosure length="23087085" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fEOPSph8_heqqgKrH7llGauNfLgzzsV_"/>
       <ns0:duration>00:24:02</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -699,7 +762,7 @@
       <description>The insights from the article on Playwright Test Agents underscore their transformative impact on E2E automation, aligning closely with Jaxon Digital's strategic pivot towards an AI Operations SaaS...</description>
       <pubDate>Sun, 09 Nov 2025 21:38:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gOf30rtPoO7ynBrjBgxWgHZVL5eYROPr</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gOf30rtPoO7ynBrjBgxWgHZVL5eYROPr" type="audio/mpeg" length="31526287"/>
+      <enclosure length="31526287" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gOf30rtPoO7ynBrjBgxWgHZVL5eYROPr"/>
       <ns0:duration>00:26:16</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -708,7 +771,7 @@
       <description>The article's exploration of advanced automation and AI-driven testing, particularly through Playwright Test Agents and the Model Context Protocol, is highly relevant to Jaxon Digital's strategic p...</description>
       <pubDate>Sun, 09 Nov 2025 10:42:46  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=19rGY-KfirYTXxUDYQdyrkxRL5YVxs748</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19rGY-KfirYTXxUDYQdyrkxRL5YVxs748" type="audio/mpeg" length="22789024"/>
+      <enclosure length="22789024" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=19rGY-KfirYTXxUDYQdyrkxRL5YVxs748"/>
       <ns0:duration>00:23:44</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -717,7 +780,7 @@
       <description>The article on Github Workflow for Claude Code Automation provides critical insights into the use of sub-agent architecture for enhancing development workflows, directly aligning with Jaxon Digital...</description>
       <pubDate>Sun, 09 Nov 2025 10:38:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ToZswEiMJqr3r_yxOq7iSozMhMLonf90</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ToZswEiMJqr3r_yxOq7iSozMhMLonf90" type="audio/mpeg" length="16257108"/>
+      <enclosure length="16257108" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ToZswEiMJqr3r_yxOq7iSozMhMLonf90"/>
       <ns0:duration>00:16:55</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -726,7 +789,7 @@
       <description>The analysis of Claude Agent SDK and its implications for enterprise AI, particularly through the lens of Claude Sonnet 4.5 and GPT-5-Codex, is critically relevant for Jaxon Digital's transition to...</description>
       <pubDate>Sun, 09 Nov 2025 10:34:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1PxM-rNvFjFoovOelSwFCk3pXZs2RrNHY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PxM-rNvFjFoovOelSwFCk3pXZs2RrNHY" type="audio/mpeg" length="13676274"/>
+      <enclosure length="13676274" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1PxM-rNvFjFoovOelSwFCk3pXZs2RrNHY"/>
       <ns0:duration>00:14:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -735,7 +798,7 @@
       <description>The article's exploration of Gemini's headless mode for AI workflow optimization is highly relevant to Jaxon Digital's focus on AI Operations and agent orchestration. It presents actionable insight...</description>
       <pubDate>Sun, 09 Nov 2025 10:00:59  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1u3KVIOjm0Jo872nlg5DFj5LMPGHk8rUy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u3KVIOjm0Jo872nlg5DFj5LMPGHk8rUy" type="audio/mpeg" length="7274630"/>
+      <enclosure length="7274630" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1u3KVIOjm0Jo872nlg5DFj5LMPGHk8rUy"/>
       <ns0:duration>00:07:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -744,7 +807,7 @@
       <description>The article's insights are crucial for Jaxon Digital's transition to an AI Operations Platform, emphasizing the strategic role of autonomous AI agents in enterprise environments. It highlights the ...</description>
       <pubDate>Fri, 07 Nov 2025 10:49:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Tuam2eHUzUhMVUrMdP3dFd0as5Nfvgon</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tuam2eHUzUhMVUrMdP3dFd0as5Nfvgon" type="audio/mpeg" length="14932794"/>
+      <enclosure length="14932794" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Tuam2eHUzUhMVUrMdP3dFd0as5Nfvgon"/>
       <ns0:duration>00:15:33</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -753,7 +816,7 @@
       <description>The article outlines a significant partnership between Cognizant and Anthropic, focusing on deploying AI solutions like Claude to enhance enterprise AI adoption, which aligns closely with Jaxon Dig...</description>
       <pubDate>Fri, 07 Nov 2025 08:53:24  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1GzorrIiPbJ118Etaf8ABfLHYmo0_4qo_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GzorrIiPbJ118Etaf8ABfLHYmo0_4qo_" type="audio/mpeg" length="6273480"/>
+      <enclosure length="6273480" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1GzorrIiPbJ118Etaf8ABfLHYmo0_4qo_"/>
       <ns0:duration>00:06:31</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -762,7 +825,7 @@
       <description>The article highlights a significant move towards enterprise AI adoption and internal transformation by Cognizant, leveraging Claude AI. This is highly relevant to Jaxon Digital's AI agent initiati...</description>
       <pubDate>Fri, 07 Nov 2025 10:32:43  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1XDIrJJ5vJXE_3oN8vrQjfrXEIiIz9_7P</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XDIrJJ5vJXE_3oN8vrQjfrXEIiIz9_7P" type="audio/mpeg" length="6316660"/>
+      <enclosure length="6316660" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1XDIrJJ5vJXE_3oN8vrQjfrXEIiIz9_7P"/>
       <ns0:duration>00:06:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -771,7 +834,7 @@
       <description>The synthesis of the article's insights underscores the critical role of context aggregation in enhancing AI agent capabilities and user experience, which is directly aligned with Jaxon Digital's strategic pivot towards an AI Operations Platform. This focus on context aggregation is pivotal for personalizing AI services...</description>
       <pubDate>Sun, 09 Nov 2025 21:35:09  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1MG1uCWwWiMVU0XeKu7a5DpDjVmuHppNe</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MG1uCWwWiMVU0XeKu7a5DpDjVmuHppNe" type="audio/mpeg" length="15132498"/>
+      <enclosure length="15132498" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1MG1uCWwWiMVU0XeKu7a5DpDjVmuHppNe"/>
       <ns0:duration>00:12:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -780,7 +843,7 @@
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, focusing on the practical application and deployment of local large language models (LLMs) that can be run on modest hardwar...</description>
       <pubDate>Fri, 07 Nov 2025 07:12:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Tf3kfOzN4klDXnZQLQQXkkhJGV7VKpAz</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tf3kfOzN4klDXnZQLQQXkkhJGV7VKpAz" type="audio/mpeg" length="8976862"/>
+      <enclosure length="8976862" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Tf3kfOzN4klDXnZQLQQXkkhJGV7VKpAz"/>
       <ns0:duration>00:09:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -789,7 +852,7 @@
       <description>The article on Master Claude Agent SDK integration is critically relevant to Jaxon Digital's pivot towards a SaaS platform for AI Operations, offering actionable insights into significantly reducin...</description>
       <pubDate>Fri, 07 Nov 2025 07:11:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1yOqvzKhdWvmhEOj5miVn5AoUSMp49T2H</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yOqvzKhdWvmhEOj5miVn5AoUSMp49T2H" type="audio/mpeg" length="25722020"/>
+      <enclosure length="25722020" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1yOqvzKhdWvmhEOj5miVn5AoUSMp49T2H"/>
       <ns0:duration>00:26:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -798,7 +861,7 @@
       <description>The article's exploration of Git Worktrees and Claude Code for parallel AI development offers a compelling methodology for Jaxon Digital's transition to a SaaS platform for AI Operations. It aligns...</description>
       <pubDate>Fri, 07 Nov 2025 07:06:53  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1TIQSiNaRpVXqJ5daYhi2JabdxCRmac5J</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TIQSiNaRpVXqJ5daYhi2JabdxCRmac5J" type="audio/mpeg" length="28469486"/>
+      <enclosure length="28469486" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1TIQSiNaRpVXqJ5daYhi2JabdxCRmac5J"/>
       <ns0:duration>00:29:39</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -807,7 +870,7 @@
       <description>The article's discussion on AI agents and MCP directly aligns with Jaxon Digital's strategic pivot towards AI Operations and agent orchestration frameworks. It highlights the transformative potenti...</description>
       <pubDate>Wed, 05 Nov 2025 15:49:12  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1zC3jTm4cJIVgmKCDNKn_oCC8sF6FMle9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zC3jTm4cJIVgmKCDNKn_oCC8sF6FMle9" type="audio/mpeg" length="5347708"/>
+      <enclosure length="5347708" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1zC3jTm4cJIVgmKCDNKn_oCC8sF6FMle9"/>
       <ns0:duration>00:05:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -816,7 +879,7 @@
       <description>The article on design patterns for compound AI systems offers critical insights aligned with Jaxon Digital's strategic pivot towards an AI Operations Platform, emphasizing the importance of agent o...</description>
       <pubDate>Wed, 05 Nov 2025 15:48:12  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gJ-Im7gcyeFaxFH9Gc50ulP3Y9dDHxDD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gJ-Im7gcyeFaxFH9Gc50ulP3Y9dDHxDD" type="audio/mpeg" length="23290470"/>
+      <enclosure length="23290470" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gJ-Im7gcyeFaxFH9Gc50ulP3Y9dDHxDD"/>
       <ns0:duration>00:24:15</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -825,7 +888,7 @@
       <description>The article provides insights into leveraging community feedback for SaaS product development, relevant to Jaxon's focus on building a user-centric AI Operations Platform. It underscores the import...</description>
       <pubDate>Wed, 05 Nov 2025 15:44:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=12EE1V1MU7ahqRF6aFHZK-fA1DRW8leK9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12EE1V1MU7ahqRF6aFHZK-fA1DRW8leK9" type="audio/mpeg" length="8457706"/>
+      <enclosure length="8457706" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=12EE1V1MU7ahqRF6aFHZK-fA1DRW8leK9"/>
       <ns0:duration>00:08:48</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -834,7 +897,7 @@
       <description>The analysis of the article reveals the critical importance of AI agents in transforming business operations, particularly in the context of Jaxon Digital's transition to an AI Operations Platform....</description>
       <pubDate>Wed, 05 Nov 2025 15:43:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1dZ5GqgPBu25scvy6vU4yTz_bBJdUFCmM</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dZ5GqgPBu25scvy6vU4yTz_bBJdUFCmM" type="audio/mpeg" length="14699624"/>
+      <enclosure length="14699624" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1dZ5GqgPBu25scvy6vU4yTz_bBJdUFCmM"/>
       <ns0:duration>00:15:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -843,7 +906,7 @@
       <description>This article is highly relevant to Jaxon Digital's AI agent initiatives, focusing on the practical application of AI model fine-tuning and deployment on devices. It aligns with Jaxon's focus on AI ...</description>
       <pubDate>Wed, 05 Nov 2025 15:40:47  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1g_5h2lHxhrl-JC9yNBqed2XB8NiJHnzx</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g_5h2lHxhrl-JC9yNBqed2XB8NiJHnzx" type="audio/mpeg" length="7244260"/>
+      <enclosure length="7244260" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1g_5h2lHxhrl-JC9yNBqed2XB8NiJHnzx"/>
       <ns0:duration>00:07:32</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -852,7 +915,7 @@
       <description>The article showcases a novel approach to AI agent collaboration, directly aligning with Jaxon Digital's focus on agent orchestration and AI Operations. It introduces a practical solution for multi...</description>
       <pubDate>Wed, 05 Nov 2025 15:39:28  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Q9yu_foSP6cMN5uV-j7d4WCDZ-zSDUbf</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q9yu_foSP6cMN5uV-j7d4WCDZ-zSDUbf" type="audio/mpeg" length="6609186"/>
+      <enclosure length="6609186" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Q9yu_foSP6cMN5uV-j7d4WCDZ-zSDUbf"/>
       <ns0:duration>00:06:52</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -861,7 +924,7 @@
       <description>The article provides an in-depth guide on integrating AI through the Master Claude Agent SDK in TypeScript, which is crucial for Jaxon Digital's transition to a SaaS platform for AI Operations. It ...</description>
       <pubDate>Wed, 05 Nov 2025 15:37:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=14WEoNwW8kCt3ZWCKpnj4qrIt8Eu8FZoX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14WEoNwW8kCt3ZWCKpnj4qrIt8Eu8FZoX" type="audio/mpeg" length="42122678"/>
+      <enclosure length="42122678" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=14WEoNwW8kCt3ZWCKpnj4qrIt8Eu8FZoX"/>
       <ns0:duration>00:43:52</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -870,7 +933,7 @@
       <description>The article's comprehensive guide on Claude Code prompts offers actionable strategies for enhancing AI agent development, crucial for Jaxon Digital's pivot to an AI Operations SaaS platform. It ali...</description>
       <pubDate>Wed, 05 Nov 2025 15:30:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=14S8JiI6_vY0VN_vmMrX7QcyzWDlIK63U</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14S8JiI6_vY0VN_vmMrX7QcyzWDlIK63U" type="audio/mpeg" length="37920152"/>
+      <enclosure length="37920152" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=14S8JiI6_vY0VN_vmMrX7QcyzWDlIK63U"/>
       <ns0:duration>00:39:29</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -879,7 +942,7 @@
       <description>The article introduces Smithery's MCP Discovery Playground, a tool for testing AI extensions in a browser without installation, which aligns with Jaxon Digital's focus on AI Operations and agent or...</description>
       <pubDate>Wed, 05 Nov 2025 15:23:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1384iORBE4J8t1PqaHei1sE0E_b7Kxs5i</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1384iORBE4J8t1PqaHei1sE0E_b7Kxs5i" type="audio/mpeg" length="6286586"/>
+      <enclosure length="6286586" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1384iORBE4J8t1PqaHei1sE0E_b7Kxs5i"/>
       <ns0:duration>00:06:32</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -888,7 +951,7 @@
       <description>The article provides critical insights into the development and application of autonomous AI agents, aligning perfectly with Jaxon Digital's strategic pivot towards an AI Operations SaaS platform. ...</description>
       <pubDate>Wed, 05 Nov 2025 15:22:44  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1E5OU6JhHbZvWXfHgE3hrEpvZHIaFTinf</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1E5OU6JhHbZvWXfHgE3hrEpvZHIaFTinf" type="audio/mpeg" length="20190844"/>
+      <enclosure length="20190844" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1E5OU6JhHbZvWXfHgE3hrEpvZHIaFTinf"/>
       <ns0:duration>00:21:01</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -897,7 +960,7 @@
       <description>The article provides a comprehensive guide for Jaxon Digital's transition into an AI Operations SaaS platform, emphasizing the importance of AI agent design, orchestration, compute optimization, and the integration of AI-native software development life cycles.</description>
       <pubDate>Wed, 05 Nov 2025 12:57:13  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1KF7r2tijpO6qLUM1CflpuYspljcZTpkt</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KF7r2tijpO6qLUM1CflpuYspljcZTpkt" type="audio/mpeg" length="15574169"/>
+      <enclosure length="15574169" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1KF7r2tijpO6qLUM1CflpuYspljcZTpkt"/>
       <ns0:duration>00:12:58</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -906,7 +969,7 @@
       <description>The article highlights the transformative impact of AI on the consulting industry, emphasizing the shift from traditional knowledge-based services to AI-driven solutions. This is moderately relevan...</description>
       <pubDate>Tue, 04 Nov 2025 10:03:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1qIZ4UjJ4lKDGuGMRhBGL8X4l6wiPm1V5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qIZ4UjJ4lKDGuGMRhBGL8X4l6wiPm1V5" type="audio/mpeg" length="6589202"/>
+      <enclosure length="6589202" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1qIZ4UjJ4lKDGuGMRhBGL8X4l6wiPm1V5"/>
       <ns0:duration>00:06:51</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -915,7 +978,7 @@
       <description>The article reveals a significant alignment with Jaxon Digital's strategic pivot towards AI Operations and agent orchestration frameworks, particularly through the development of autonomous AI developers using LangGraph's ReAct Agent.</description>
       <pubDate>Wed, 05 Nov 2025 12:57:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj" type="audio/mpeg" length="105949504"/>
+      <enclosure length="105949504" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13rif0SXveuRHxoAXww2li8zfYjk3RXvj"/>
       <ns0:duration>01:28:17</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -924,7 +987,7 @@
       <description>The comprehensive guide to OpenAI's Agent Builder presents critical insights for Jaxon Digital's transition to a SaaS platform for AI Operations. It highlights the efficiency of agent development, ...</description>
       <pubDate>Tue, 04 Nov 2025 09:45:44  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1k2J8PwyVizSgDA98n67kIpVLjtRydtJI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k2J8PwyVizSgDA98n67kIpVLjtRydtJI" type="audio/mpeg" length="19792294"/>
+      <enclosure length="19792294" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1k2J8PwyVizSgDA98n67kIpVLjtRydtJI"/>
       <ns0:duration>00:20:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -933,7 +996,7 @@
       <description>The article underscores the critical role of AI in enhancing coding practices and engineering workflows, particularly through tools like Codex CLI. It highlights the alignment of these advancements...</description>
       <pubDate>Tue, 04 Nov 2025 09:42:31  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jOGmSVvxMXFFPmgtosvGNdmZi6RSzeYO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jOGmSVvxMXFFPmgtosvGNdmZi6RSzeYO" type="audio/mpeg" length="15971484"/>
+      <enclosure length="15971484" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jOGmSVvxMXFFPmgtosvGNdmZi6RSzeYO"/>
       <ns0:duration>00:16:38</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -942,7 +1005,7 @@
       <description>The Claude Code Complete Mastery Guide for Solo Developers offers critical insights into AI tool utilization, emphasizing systematic context engineering, AI-augmented workflows, and the significanc...</description>
       <pubDate>Tue, 04 Nov 2025 09:38:59  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1c4oI7jc_ddWBeKQG1DFnCLOI002sfGmn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c4oI7jc_ddWBeKQG1DFnCLOI002sfGmn" type="audio/mpeg" length="18477456"/>
+      <enclosure length="18477456" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1c4oI7jc_ddWBeKQG1DFnCLOI002sfGmn"/>
       <ns0:duration>00:19:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -951,7 +1014,7 @@
       <description>The article's exploration of Claude Code plugins and their potential to drastically reduce development time offers actionable insights for Jaxon Digital's transition towards a SaaS model for AI Ope...</description>
       <pubDate>Tue, 04 Nov 2025 09:35:26  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=10lXLw9lQAjcGpyGBap51BpihcTvx0e0W</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10lXLw9lQAjcGpyGBap51BpihcTvx0e0W" type="audio/mpeg" length="16330172"/>
+      <enclosure length="16330172" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=10lXLw9lQAjcGpyGBap51BpihcTvx0e0W"/>
       <ns0:duration>00:17:00</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -960,7 +1023,7 @@
       <description>The article on OpenAI's Codex AI agent highlights a transformative approach in software development, potentially aligning with Jaxon Digital's pivot towards AI Operations and agent orchestration fr...</description>
       <pubDate>Mon, 03 Nov 2025 12:36:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1iSXKtLVri5Ou3l_rCNvn8LrQpyKajWeh</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iSXKtLVri5Ou3l_rCNvn8LrQpyKajWeh" type="audio/mpeg" length="5005930"/>
+      <enclosure length="5005930" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1iSXKtLVri5Ou3l_rCNvn8LrQpyKajWeh"/>
       <ns0:duration>00:05:12</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -969,7 +1032,7 @@
       <description>The article's focus on structured planning and documentation for AI-assisted development aligns closely with Jaxon Digital's shift towards AI Operations. It underscores the importance of clear spec...</description>
       <pubDate>Mon, 03 Nov 2025 12:35:27  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1bsFdCgqvVZB8mfqaxf_mYhue8vK5JMY_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bsFdCgqvVZB8mfqaxf_mYhue8vK5JMY_" type="audio/mpeg" length="6518428"/>
+      <enclosure length="6518428" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1bsFdCgqvVZB8mfqaxf_mYhue8vK5JMY_"/>
       <ns0:duration>00:06:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -978,7 +1041,7 @@
       <description>The analysis of the smart to-do app utilizing MCP for conversational AI interactions provides valuable insights for Jaxon Digital's transition to a SaaS platform for AI Operations. It aligns with t...</description>
       <pubDate>Mon, 03 Nov 2025 12:34:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1X5PQuR9Ojf2sa8LLKFeKiPlMApBlZ8b7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5PQuR9Ojf2sa8LLKFeKiPlMApBlZ8b7" type="audio/mpeg" length="15917320"/>
+      <enclosure length="15917320" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1X5PQuR9Ojf2sa8LLKFeKiPlMApBlZ8b7"/>
       <ns0:duration>00:16:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -987,7 +1050,7 @@
       <description>This article is crucial for Jaxon Digital as it outlines foundational research papers that have shaped the current AI landscape, directly impacting our AI Operations Platform's development and agen...</description>
       <pubDate>Mon, 03 Nov 2025 12:31:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Xwi_eoO2HKMpzCmnC9k_wIrqJcAs3RE3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xwi_eoO2HKMpzCmnC9k_wIrqJcAs3RE3" type="audio/mpeg" length="5447936"/>
+      <enclosure length="5447936" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Xwi_eoO2HKMpzCmnC9k_wIrqJcAs3RE3"/>
       <ns0:duration>00:05:40</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -996,7 +1059,7 @@
       <description>The article's comparative analysis between Claude-code and Codex-CLI provides valuable insights into AI model efficiency, token consumption, and development experience. These insights are crucial f...</description>
       <pubDate>Mon, 03 Nov 2025 12:30:30  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1QCOvkMuBtaC9nlbs92W80WZbppeHK7N_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QCOvkMuBtaC9nlbs92W80WZbppeHK7N_" type="audio/mpeg" length="9936432"/>
+      <enclosure length="9936432" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1QCOvkMuBtaC9nlbs92W80WZbppeHK7N_"/>
       <ns0:duration>00:10:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1005,7 +1068,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:43:36  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ql6Xp9LnAYznWKwPFiQ_gmxbYmh1VKz6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ql6Xp9LnAYznWKwPFiQ_gmxbYmh1VKz6" type="audio/mpeg" length="5303703"/>
+      <enclosure length="5303703" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ql6Xp9LnAYznWKwPFiQ_gmxbYmh1VKz6"/>
       <ns0:duration>00:05:31</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1014,7 +1077,7 @@
       <description>The article on Salesforce's Agentforce architecture, including A2A and MCP protocols, is highly relevant to Jaxon Digital's AI agent initiatives, offering insights into agent orchestration and mult...</description>
       <pubDate>Mon, 03 Nov 2025 12:28:34  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gUMjqF9kx4HK8EgjetGGTYDzPyM0Yzrx</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gUMjqF9kx4HK8EgjetGGTYDzPyM0Yzrx" type="audio/mpeg" length="6133796"/>
+      <enclosure length="6133796" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gUMjqF9kx4HK8EgjetGGTYDzPyM0Yzrx"/>
       <ns0:duration>00:06:23</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1023,7 +1086,7 @@
       <description>Microsoft's recent corporate restructuring, including the layoff of the AI Director and disbandment of the Python core team, signals a significant shift in its commitment to AI and Python developme...</description>
       <pubDate>Mon, 03 Nov 2025 12:27:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1rtEASpPDxxp-GG9zuyaBy31Ju70x2iH4</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rtEASpPDxxp-GG9zuyaBy31Ju70x2iH4" type="audio/mpeg" length="10208054"/>
+      <enclosure length="10208054" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1rtEASpPDxxp-GG9zuyaBy31Ju70x2iH4"/>
       <ns0:duration>00:10:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1032,7 +1095,7 @@
       <description>The article on the new OCR model 'Chandra' by Datalab, which excels in handling complex document structures, is highly relevant to Jaxon Digital's AI agent initiatives. Its capabilities in document...</description>
       <pubDate>Mon, 03 Nov 2025 12:25:47  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1uMVnUYL-2G41WVXAs-6Aeh6-GY9-1Gua</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMVnUYL-2G41WVXAs-6Aeh6-GY9-1Gua" type="audio/mpeg" length="5249058"/>
+      <enclosure length="5249058" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1uMVnUYL-2G41WVXAs-6Aeh6-GY9-1Gua"/>
       <ns0:duration>00:05:27</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1041,7 +1104,7 @@
       <description>The article on 'Deepagent' is highly relevant to Jaxon Digital's AI agent initiatives, focusing on advanced AI learning, thinking, and tool-building capabilities that align with Jaxon's strategic p...</description>
       <pubDate>Mon, 03 Nov 2025 12:24:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1flWCQdXAVsSsrGByVPcq-LobcHR1YRkq</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1flWCQdXAVsSsrGByVPcq-LobcHR1YRkq" type="audio/mpeg" length="2799114"/>
+      <enclosure length="2799114" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1flWCQdXAVsSsrGByVPcq-LobcHR1YRkq"/>
       <ns0:duration>00:02:54</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1050,7 +1113,7 @@
       <description>The article showcases advancements in AI agent capabilities and integration strategies, which are directly relevant to Jaxon Digital's focus on building a SaaS-based AI Operations Platform. The men...</description>
       <pubDate>Mon, 03 Nov 2025 12:23:47  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=11_Lc-HnPpwpTDyt41LZC_8jni_Dldvg7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11_Lc-HnPpwpTDyt41LZC_8jni_Dldvg7" type="audio/mpeg" length="2921554"/>
+      <enclosure length="2921554" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=11_Lc-HnPpwpTDyt41LZC_8jni_Dldvg7"/>
       <ns0:duration>00:03:02</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1059,7 +1122,7 @@
       <description>The article on building an AI-powered smart travel planner using Multi-Agent AI and LangGraph is highly relevant to Jaxon Digital's AI agent initiatives. It directly aligns with the company's focus...</description>
       <pubDate>Sun, 02 Nov 2025 11:01:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1l9MqVdfrEE8kzIxGm6TN7NCfUUPl3xtA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1l9MqVdfrEE8kzIxGm6TN7NCfUUPl3xtA" type="audio/mpeg" length="20888986"/>
+      <enclosure length="20888986" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1l9MqVdfrEE8kzIxGm6TN7NCfUUPl3xtA"/>
       <ns0:duration>00:21:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1068,7 +1131,7 @@
       <description>The article details a method for creating and hosting MCP servers using Gradio, which is relevant to Jaxon Digital's focus on AI Operations and agent orchestration frameworks. However, it doesn't d...</description>
       <pubDate>Sun, 02 Nov 2025 10:58:34  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1pd2Bb3EHgxqMAqA1aX_1qTQq1y6bLL8y</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pd2Bb3EHgxqMAqA1aX_1qTQq1y6bLL8y" type="audio/mpeg" length="6967772"/>
+      <enclosure length="6967772" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1pd2Bb3EHgxqMAqA1aX_1qTQq1y6bLL8y"/>
       <ns0:duration>00:07:15</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1077,7 +1140,7 @@
       <description>The article on building custom MCP servers for ChatGPT is highly relevant to Jaxon Digital's pivot towards a SaaS platform for AI Operations. It aligns with the focus on agent orchestration and mul...</description>
       <pubDate>Sun, 02 Nov 2025 10:57:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1SnZw0inZWCX4gVnCwxmbg1E2jQc2MS-j</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SnZw0inZWCX4gVnCwxmbg1E2jQc2MS-j" type="audio/mpeg" length="10692566"/>
+      <enclosure length="10692566" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1SnZw0inZWCX4gVnCwxmbg1E2jQc2MS-j"/>
       <ns0:duration>00:11:08</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1086,7 +1149,7 @@
       <description>The article showcases an innovative use of Google's Gemma models for building a local RAG system, aligning with Jaxon Digital's focus on AI agent initiatives and agent orchestration frameworks.</description>
       <pubDate>Sun, 02 Nov 2025 10:55:34  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1BxRougDCBHQlh43KxE9UA00f_QIhZlTG</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BxRougDCBHQlh43KxE9UA00f_QIhZlTG" type="audio/mpeg" length="9518341"/>
+      <enclosure length="9518341" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1BxRougDCBHQlh43KxE9UA00f_QIhZlTG"/>
       <ns0:duration>00:09:54</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1095,7 +1158,7 @@
       <description>The comparative analysis between Cursor and Warp offers insights into development tool efficiency and cost management, relevant to Jaxon Digital's AI Operations platform development. While the dire...</description>
       <pubDate>Sun, 02 Nov 2025 10:54:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1JuVyuKIRXyv0wAXVNehc1XyGTRRh3eG2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JuVyuKIRXyv0wAXVNehc1XyGTRRh3eG2" type="audio/mpeg" length="10638464"/>
+      <enclosure length="10638464" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1JuVyuKIRXyv0wAXVNehc1XyGTRRh3eG2"/>
       <ns0:duration>00:11:04</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1104,7 +1167,7 @@
       <description>The comprehensive analysis of building intelligent AI agents with Google's ADK offers actionable insights and methodologies that align with Jaxon Digital's strategic pivot towards AI Operations and...</description>
       <pubDate>Sun, 02 Nov 2025 10:52:13  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1dD_C8-EMgIvMq1lhXf-8JuOCGHuEG4pc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dD_C8-EMgIvMq1lhXf-8JuOCGHuEG4pc" type="audio/mpeg" length="15617056"/>
+      <enclosure length="15617056" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1dD_C8-EMgIvMq1lhXf-8JuOCGHuEG4pc"/>
       <ns0:duration>00:16:15</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1113,7 +1176,7 @@
       <description>The article's in-depth analysis of Claude Sonnet 4.5's features offers critical insights for Jaxon Digital's transition into a SaaS platform for AI Operations, highlighting its potential to signifi...</description>
       <pubDate>Sun, 02 Nov 2025 10:49:12  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1OFyUyNEKL0zOjpLsV9B5M6mhtxSwd7tY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OFyUyNEKL0zOjpLsV9B5M6mhtxSwd7tY" type="audio/mpeg" length="19573010"/>
+      <enclosure length="19573010" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1OFyUyNEKL0zOjpLsV9B5M6mhtxSwd7tY"/>
       <ns0:duration>00:20:23</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1122,7 +1185,7 @@
       <description>This article provides foundational knowledge on running AI models locally, which is tangentially relevant to Jaxon Digital's focus on AI Operations and agent orchestration. It offers insights into ...</description>
       <pubDate>Sun, 02 Nov 2025 10:45:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1RLn83eJ2lN70K52grnARf1kV1lQ-4PtQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RLn83eJ2lN70K52grnARf1kV1lQ-4PtQ" type="audio/mpeg" length="8309534"/>
+      <enclosure length="8309534" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1RLn83eJ2lN70K52grnARf1kV1lQ-4PtQ"/>
       <ns0:duration>00:08:39</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1131,7 +1194,7 @@
       <description>The article showcases the practical application and development of an AI agent using Microsoft's Agent Framework, relevant to Jaxon Digital's focus on AI agent design and orchestration frameworks.</description>
       <pubDate>Sun, 02 Nov 2025 10:44:40  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HYkWhCIWq7u7ACUGQbWIQ59uwPUgkHXi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HYkWhCIWq7u7ACUGQbWIQ59uwPUgkHXi" type="audio/mpeg" length="8046476"/>
+      <enclosure length="8046476" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HYkWhCIWq7u7ACUGQbWIQ59uwPUgkHXi"/>
       <ns0:duration>00:08:22</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1140,7 +1203,7 @@
       <description>The detailed exploration of Claude Sonnet 4.5's capabilities in the article aligns closely with Jaxon Digital's strategic pivot towards an AI Operations SaaS platform, emphasizing the importance of...</description>
       <pubDate>Sun, 02 Nov 2025 10:43:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1NUJXq5wT9MCHvKsRRR6w2AZuVbGeqHgB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NUJXq5wT9MCHvKsRRR6w2AZuVbGeqHgB" type="audio/mpeg" length="19526944"/>
+      <enclosure length="19526944" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1NUJXq5wT9MCHvKsRRR6w2AZuVbGeqHgB"/>
       <ns0:duration>00:20:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1149,7 +1212,7 @@
       <description>The article on Microsoft's Agent Lightning framework is highly relevant to Jaxon Digital's AI agent initiatives, offering insights into training and optimizing AI agents efficiently.</description>
       <pubDate>Sun, 02 Nov 2025 10:39:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=15wsb4mXhWg9VjSyTmH0FKISbpz9Jp2Bb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15wsb4mXhWg9VjSyTmH0FKISbpz9Jp2Bb" type="audio/mpeg" length="5870750"/>
+      <enclosure length="5870750" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15wsb4mXhWg9VjSyTmH0FKISbpz9Jp2Bb"/>
       <ns0:duration>00:06:06</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1158,7 +1221,7 @@
       <description>The article on 'Introducing Agent Skills' is highly relevant to Jaxon Digital's AI agent initiatives, focusing on enhancing AI capabilities through customizable skills. This aligns with Jaxon's foc...</description>
       <pubDate>Sat, 01 Nov 2025 10:39:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1n6GlEQyYOP1phICu1xHXleqQf6YSlHLI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n6GlEQyYOP1phICu1xHXleqQf6YSlHLI" type="audio/mpeg" length="6493104"/>
+      <enclosure length="6493104" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1n6GlEQyYOP1phICu1xHXleqQf6YSlHLI"/>
       <ns0:duration>00:06:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1167,7 +1230,7 @@
       <description>The article outlines Anthropic's strategic approach to AI development, emphasizing responsible growth, political neutrality, and international expansion. Its focus on AI safety, policy engagement, ...</description>
       <pubDate>Sat, 01 Nov 2025 10:38:35  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1c394mZ4ZKPcnAYkx9g3fEzxG-m6mIQU5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c394mZ4ZKPcnAYkx9g3fEzxG-m6mIQU5" type="audio/mpeg" length="9619660"/>
+      <enclosure length="9619660" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1c394mZ4ZKPcnAYkx9g3fEzxG-m6mIQU5"/>
       <ns0:duration>00:10:01</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1176,7 +1239,7 @@
       <description>The article details Anthropic's expansion in compute resources through Google Cloud and its strategic partnerships, which is moderately relevant to Jaxon Digital's AI Operations Platform initiative...</description>
       <pubDate>Sat, 01 Nov 2025 10:36:34  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1tvmi69zXvvFUhLYB3w-wvJvD4WEyzf7c</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tvmi69zXvvFUhLYB3w-wvJvD4WEyzf7c" type="audio/mpeg" length="4506672"/>
+      <enclosure length="4506672" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tvmi69zXvvFUhLYB3w-wvJvD4WEyzf7c"/>
       <ns0:duration>00:04:41</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1185,7 +1248,7 @@
       <description>The article on Claude Haiku 4.5 is highly relevant to Jaxon Digital's pivot towards AI Operations and SaaS model, especially in the context of agent orchestration and multi-tenant platform architec...</description>
       <pubDate>Sat, 01 Nov 2025 10:35:23  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=12l6pnUhtk0Md8vysJKCLwdNgPJYFN3yF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12l6pnUhtk0Md8vysJKCLwdNgPJYFN3yF" type="audio/mpeg" length="7678892"/>
+      <enclosure length="7678892" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=12l6pnUhtk0Md8vysJKCLwdNgPJYFN3yF"/>
       <ns0:duration>00:07:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1194,7 +1257,7 @@
       <description>The article provides critical insights into advanced AI agent development practices, with a strong focus on financial services that are highly relevant to Jaxon Digital's transition to an AI Operat...</description>
       <pubDate>Sat, 01 Nov 2025 10:32:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1w2IM_B6FclLRK2dv7cOmDWUjgpy39nWq</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w2IM_B6FclLRK2dv7cOmDWUjgpy39nWq" type="audio/mpeg" length="24530766"/>
+      <enclosure length="24530766" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1w2IM_B6FclLRK2dv7cOmDWUjgpy39nWq"/>
       <ns0:duration>00:25:33</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1203,7 +1266,7 @@
       <description>The article on Anthropic's Claude Code introduces a cloud-based, parallel coding task execution environment, which aligns closely with Jaxon Digital's focus on AI Operations and agent orchestration...</description>
       <pubDate>Sat, 01 Nov 2025 10:24:59  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Ica2apW38-RIjHCv3CLbK9eIMjzMMwNc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ica2apW38-RIjHCv3CLbK9eIMjzMMwNc" type="audio/mpeg" length="4583544"/>
+      <enclosure length="4583544" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Ica2apW38-RIjHCv3CLbK9eIMjzMMwNc"/>
       <ns0:duration>00:04:46</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1212,7 +1275,7 @@
       <description>The introduction of Claude Sonnet 4.5 is highly relevant to Jaxon Digital's AI agent initiatives, offering advanced capabilities in coding, reasoning, and task execution that align with Jaxon's foc...</description>
       <pubDate>Sat, 01 Nov 2025 10:23:51  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=13m3X46AAjRK_0kQNm8syYD0-45DOdwZZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13m3X46AAjRK_0kQNm8syYD0-45DOdwZZ" type="audio/mpeg" length="12797626"/>
+      <enclosure length="12797626" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=13m3X46AAjRK_0kQNm8syYD0-45DOdwZZ"/>
       <ns0:duration>00:13:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1221,7 +1284,7 @@
       <description>The article presents a structured framework for AI-assisted software development, crucial for Jaxon Digital's transition to a SaaS platform for AI Operations. It emphasizes the importance of integr...</description>
       <pubDate>Fri, 31 Oct 2025 13:43:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1R0_pQZGdlYavh45-5am0FC59QPhyUYzc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R0_pQZGdlYavh45-5am0FC59QPhyUYzc" type="audio/mpeg" length="21055254"/>
+      <enclosure length="21055254" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1R0_pQZGdlYavh45-5am0FC59QPhyUYzc"/>
       <ns0:duration>00:21:55</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1230,7 +1293,7 @@
       <description>The article's exploration of the AI Vibe Coding Paradox is highly relevant to Jaxon Digital's transformation into a SaaS platform for AI Operations, emphasizing the critical role of experience and ...</description>
       <pubDate>Fri, 31 Oct 2025 13:39:55  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1UGtvmXi0vrRCeKEHJRAjcUcTu0SXkxW_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UGtvmXi0vrRCeKEHJRAjcUcTu0SXkxW_" type="audio/mpeg" length="12702080"/>
+      <enclosure length="12702080" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1UGtvmXi0vrRCeKEHJRAjcUcTu0SXkxW_"/>
       <ns0:duration>00:13:13</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1239,7 +1302,7 @@
       <description>The article provides detailed insights into the pricing model of Cursor AI, a tool that could be analogous to services Jaxon Digital might offer or integrate with. Understanding Cursor's pricing st...</description>
       <pubDate>Fri, 31 Oct 2025 13:37:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1rIxC5P-rRY0fOsvhY_3fnMIW5PmJJsvM</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rIxC5P-rRY0fOsvhY_3fnMIW5PmJJsvM" type="audio/mpeg" length="8937654"/>
+      <enclosure length="8937654" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1rIxC5P-rRY0fOsvhY_3fnMIW5PmJJsvM"/>
       <ns0:duration>00:09:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1248,7 +1311,7 @@
       <description>The article showcases the potential of fine-tuning large language models (LLMs) on consumer-grade hardware using Unsloth, highlighting significant implications for democratizing AI development and ...</description>
       <pubDate>Fri, 31 Oct 2025 13:36:14  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Z-AtbkAhFuLD0wonpU8xuqEdVSCQyiWF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z-AtbkAhFuLD0wonpU8xuqEdVSCQyiWF" type="audio/mpeg" length="6406744"/>
+      <enclosure length="6406744" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Z-AtbkAhFuLD0wonpU8xuqEdVSCQyiWF"/>
       <ns0:duration>00:06:40</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1257,7 +1320,7 @@
       <description>The article's comprehensive exploration of Kubernetes platform architecture through the 'planes' concept offers actionable insights for Jaxon Digital's transition to a scalable, multi-tenant AI Ope...</description>
       <pubDate>Fri, 31 Oct 2025 13:34:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1rYY28UkLHIp-Tt_l4un_F4e6c4C3WCTc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rYY28UkLHIp-Tt_l4un_F4e6c4C3WCTc" type="audio/mpeg" length="32412016"/>
+      <enclosure length="32412016" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1rYY28UkLHIp-Tt_l4un_F4e6c4C3WCTc"/>
       <ns0:duration>00:33:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1266,7 +1329,7 @@
       <description>The Claude Skills Tutorials Toolkit article offers a comprehensive guide crucial for Jaxon Digital's evolution into a SaaS platform for AI Operations. It aligns with Jaxon's strategic initiatives b...</description>
       <pubDate>Fri, 31 Oct 2025 13:28:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=10U6uyEVzxNz2S0307ym4ZqIpWndDY7GU</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10U6uyEVzxNz2S0307ym4ZqIpWndDY7GU" type="audio/mpeg" length="22067134"/>
+      <enclosure length="22067134" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=10U6uyEVzxNz2S0307ym4ZqIpWndDY7GU"/>
       <ns0:duration>00:22:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1275,7 +1338,7 @@
       <description>The analysis of ChatGPT Atlas by OpenAI reveals critical insights into the evolving AI landscape, directly impacting Jaxon Digital's strategic direction in AI Operations and agent orchestration. It...</description>
       <pubDate>Fri, 31 Oct 2025 13:23:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=17poRys5TouePOip-rh9H22IJrI8_1M03</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17poRys5TouePOip-rh9H22IJrI8_1M03" type="audio/mpeg" length="21757168"/>
+      <enclosure length="21757168" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=17poRys5TouePOip-rh9H22IJrI8_1M03"/>
       <ns0:duration>00:22:39</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1284,7 +1347,7 @@
       <description>The article's focus on learning systems, feedback loops, and AI agent design patterns aligns closely with Jaxon Digital's strategic pivot towards AI Operations. It provides actionable insights into...</description>
       <pubDate>Fri, 31 Oct 2025 13:20:24  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=10BW8M0FySOPO_xi7kxd_It52regoswk9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10BW8M0FySOPO_xi7kxd_It52regoswk9" type="audio/mpeg" length="8016512"/>
+      <enclosure length="8016512" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=10BW8M0FySOPO_xi7kxd_It52regoswk9"/>
       <ns0:duration>00:08:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1293,7 +1356,7 @@
       <description>Article review - Vibe Coding Is So Last Month My First Agent Swarm Experience With Claude Flow</description>
       <pubDate>Mon, 10 Nov 2025 15:10:45  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1kJKCgBmqMZUneROk_qUpdCrBzHL7FUik</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kJKCgBmqMZUneROk_qUpdCrBzHL7FUik" type="audio/mpeg" length="42665438"/>
+      <enclosure length="42665438" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1kJKCgBmqMZUneROk_qUpdCrBzHL7FUik"/>
       <ns0:duration>00:35:33</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1302,7 +1365,7 @@
       <description>The comprehensive analysis of the October 2025 advancements in AI agent platforms and frameworks offers pivotal insights for Jaxon Digital's transition to a SaaS model for AI Operations. It undersc...</description>
       <pubDate>Fri, 31 Oct 2025 13:15:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1TApMq0ZQbIeh8DGnk4zLtWrv9MNSpfFf</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TApMq0ZQbIeh8DGnk4zLtWrv9MNSpfFf" type="audio/mpeg" length="14579836"/>
+      <enclosure length="14579836" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1TApMq0ZQbIeh8DGnk4zLtWrv9MNSpfFf"/>
       <ns0:duration>00:15:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1311,7 +1374,7 @@
       <description>The article's exploration of mathematical foundations, particularly gradient descent, is crucial for Jaxon Digital's shift towards an AI Operations SaaS platform. It underscores the importance of t...</description>
       <pubDate>Fri, 31 Oct 2025 11:15:10  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=18G-rbmeViaQ64qs7syN-_d-UMTH9yeSX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18G-rbmeViaQ64qs7syN-_d-UMTH9yeSX" type="audio/mpeg" length="12913996"/>
+      <enclosure length="12913996" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=18G-rbmeViaQ64qs7syN-_d-UMTH9yeSX"/>
       <ns0:duration>00:13:27</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1320,7 +1383,7 @@
       <description>The article on Claude Haiku 4.5's impact on AI coding and developer economics is highly relevant to Jaxon Digital's pivot towards a SaaS AI Operations platform. It highlights a shift in AI developm...</description>
       <pubDate>Fri, 31 Oct 2025 11:12:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1MY2u57HNRPDg7DbqXZOHsuK0FQZhh5lv</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MY2u57HNRPDg7DbqXZOHsuK0FQZhh5lv" type="audio/mpeg" length="7166382"/>
+      <enclosure length="7166382" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1MY2u57HNRPDg7DbqXZOHsuK0FQZhh5lv"/>
       <ns0:duration>00:07:27</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1329,7 +1392,7 @@
       <description>The article outlines a frenetic period of AI product launches, highlighting the rapid innovation and competitive dynamics in the AI space. This is highly relevant for Jaxon Digital's pivot towards ...</description>
       <pubDate>Fri, 31 Oct 2025 11:11:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1WdgoxvY2funy1KzFYEfU7IbBAYr2o_o9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WdgoxvY2funy1KzFYEfU7IbBAYr2o_o9" type="audio/mpeg" length="8869026"/>
+      <enclosure length="8869026" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1WdgoxvY2funy1KzFYEfU7IbBAYr2o_o9"/>
       <ns0:duration>00:09:14</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1338,7 +1401,7 @@
       <description>This article showcases an innovative AI coding setup that could significantly enhance Jaxon Digital's AI agent development process, offering insights into AI pair programming and iterative feedback...</description>
       <pubDate>Thu, 30 Oct 2025 19:09:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=191qQb-uUXuWPB4pI1qJx8_m-tKqVkH6D</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=191qQb-uUXuWPB4pI1qJx8_m-tKqVkH6D" type="audio/mpeg" length="5098444"/>
+      <enclosure length="5098444" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=191qQb-uUXuWPB4pI1qJx8_m-tKqVkH6D"/>
       <ns0:duration>00:05:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1347,7 +1410,7 @@
       <description>The article's focus on leveraging AI effectively and strategic skill development aligns with Jaxon Digital's pivot towards AI Operations. It indirectly supports the initiative by highlighting the i...</description>
       <pubDate>Thu, 30 Oct 2025 19:08:46  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Sj_jdQ-kBdAyKGREjUG4Zqab8tFC9JUH</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Sj_jdQ-kBdAyKGREjUG4Zqab8tFC9JUH" type="audio/mpeg" length="9448808"/>
+      <enclosure length="9448808" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Sj_jdQ-kBdAyKGREjUG4Zqab8tFC9JUH"/>
       <ns0:duration>00:09:50</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1356,7 +1419,7 @@
       <description>The Claude Skills Factory article offers critical insights into rapid, production-ready AI tool generation, aligning perfectly with Jaxon Digital's strategic pivot towards an AI Operations SaaS pla...</description>
       <pubDate>Thu, 30 Oct 2025 19:06:11  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=19J_Yr5CdJrreoSTRnFvDKfAyTzAjpzfo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19J_Yr5CdJrreoSTRnFvDKfAyTzAjpzfo" type="audio/mpeg" length="50645932"/>
+      <enclosure length="50645932" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=19J_Yr5CdJrreoSTRnFvDKfAyTzAjpzfo"/>
       <ns0:duration>00:52:45</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1365,7 +1428,7 @@
       <description>The comprehensive analysis of the Claude AI and Claude Code skills teaching AI to think like an engineer presents a transformative opportunity for Jaxon Digital's pivot towards a SaaS platform for ...</description>
       <pubDate>Thu, 30 Oct 2025 18:57:48  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1nfwNsn0TDD_1I2QKEMdPA_XkDu0lTUej</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nfwNsn0TDD_1I2QKEMdPA_XkDu0lTUej" type="audio/mpeg" length="20160538"/>
+      <enclosure length="20160538" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1nfwNsn0TDD_1I2QKEMdPA_XkDu0lTUej"/>
       <ns0:duration>00:20:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1374,7 +1437,7 @@
       <description>The article offers an in-depth analysis of the top AI agent platforms in 2025, crucial for Jaxon Digital's transition to a SaaS platform specializing in AI Operations. It highlights essential frame...</description>
       <pubDate>Thu, 30 Oct 2025 18:54:39  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1zPXxPiu7zwyS4ynVJEdCgVL_HaNDX7zg</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zPXxPiu7zwyS4ynVJEdCgVL_HaNDX7zg" type="audio/mpeg" length="18994292"/>
+      <enclosure length="18994292" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1zPXxPiu7zwyS4ynVJEdCgVL_HaNDX7zg"/>
       <ns0:duration>00:19:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1383,7 +1446,7 @@
       <description>The article details Microsoft's release of an open-source Agent Framework that unifies AutoGen and Semantic Kernel, offering a scalable, enterprise-grade solution for AI agent development. This is ...</description>
       <pubDate>Thu, 30 Oct 2025 18:51:19  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HBlskpQYFQPT4wgVNPL3WQRpZ6TbGCAc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HBlskpQYFQPT4wgVNPL3WQRpZ6TbGCAc" type="audio/mpeg" length="8951568"/>
+      <enclosure length="8951568" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HBlskpQYFQPT4wgVNPL3WQRpZ6TbGCAc"/>
       <ns0:duration>00:09:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1392,7 +1455,7 @@
       <description>The article showcases practical applications of AI tools in accelerating MVP development, which aligns with Jaxon Digital's focus on AI Operations and agent orchestration. However, it lacks direct ...</description>
       <pubDate>Thu, 30 Oct 2025 18:49:31  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1UIkUqT-SnI4DmQofsswMMmpHGyOnVgX5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UIkUqT-SnI4DmQofsswMMmpHGyOnVgX5" type="audio/mpeg" length="6354928"/>
+      <enclosure length="6354928" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1UIkUqT-SnI4DmQofsswMMmpHGyOnVgX5"/>
       <ns0:duration>00:06:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1401,7 +1464,7 @@
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:01:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1kbKBxdrhLkp6RuTb1i2yl3ILqiW19Hac</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kbKBxdrhLkp6RuTb1i2yl3ILqiW19Hac" type="audio/mpeg" length="5910051"/>
+      <enclosure length="5910051" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1kbKBxdrhLkp6RuTb1i2yl3ILqiW19Hac"/>
       <ns0:duration>00:06:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1410,7 +1473,7 @@
       <description>The article's insights into Nico's rapid AI tool development and commercialization offer valuable lessons for Jaxon Digital, particularly in adopting agile product development practices and leverag...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:23  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1wDIOtcqz_iwfKr4j1-U1RPOKXbD3PXbS</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wDIOtcqz_iwfKr4j1-U1RPOKXbD3PXbS" type="audio/mpeg" length="22891576"/>
+      <enclosure length="22891576" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1wDIOtcqz_iwfKr4j1-U1RPOKXbD3PXbS"/>
       <ns0:duration>00:23:50</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1419,7 +1482,7 @@
       <description>The article introduces Libra AI, an open-source alternative for AI-powered app generation, emphasizing control and ownership of the generated code. Its relevance to Jaxon Digital lies in exploring ...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:22  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1DqoY_xYpZshXZATmqpddXBHKmo_aHbd_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DqoY_xYpZshXZATmqpddXBHKmo_aHbd_" type="audio/mpeg" length="5875306"/>
+      <enclosure length="5875306" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1DqoY_xYpZshXZATmqpddXBHKmo_aHbd_"/>
       <ns0:duration>00:06:07</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1428,7 +1491,7 @@
       <description>This article provides direct insights into deploying MCP servers on AWS Lambda, a topic closely aligned with Jaxon Digital's focus on custom MCP development and AI agent initiatives for Optimizely ...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:22  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=15Xg0ST9l4-jxZVr6YDpdTO2chlHzGO6K</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15Xg0ST9l4-jxZVr6YDpdTO2chlHzGO6K" type="audio/mpeg" length="8229246"/>
+      <enclosure length="8229246" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15Xg0ST9l4-jxZVr6YDpdTO2chlHzGO6K"/>
       <ns0:duration>00:08:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1437,7 +1500,7 @@
       <description>The article provides a foundational understanding of AI skills pertinent to Jaxon Digital's strategic focus on AI agent initiatives and Optimizely DXP operations. While it offers a broad view on AI...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Zyn2A6jX8YSJinEUl6nxarenkzOajRqQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Zyn2A6jX8YSJinEUl6nxarenkzOajRqQ" type="audio/mpeg" length="12219790"/>
+      <enclosure length="12219790" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Zyn2A6jX8YSJinEUl6nxarenkzOajRqQ"/>
       <ns0:duration>00:12:43</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1446,7 +1509,7 @@
       <description>The article highlights the emerging threat of shadow agents, autonomous AI systems operating without oversight, which is directly relevant to Jaxon Digital's focus on AI agent initiatives, especial...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Va9ZJlgMe5Q3IlUBR-0VGfRsCyJ05R3o</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Va9ZJlgMe5Q3IlUBR-0VGfRsCyJ05R3o" type="audio/mpeg" length="11272846"/>
+      <enclosure length="11272846" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Va9ZJlgMe5Q3IlUBR-0VGfRsCyJ05R3o"/>
       <ns0:duration>00:11:44</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1455,7 +1518,7 @@
       <description>The article provides a comprehensive guide on building a Text-to-SQL chatbot using RAG, LangChain, FastAPI, and Streamlit, offering valuable insights for Jaxon Digital's AI agent initiatives and cu...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:19  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=12kEK2eOkjk7gEeYR9aSC65n9o0XEdKMV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12kEK2eOkjk7gEeYR9aSC65n9o0XEdKMV" type="audio/mpeg" length="35093134"/>
+      <enclosure length="35093134" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=12kEK2eOkjk7gEeYR9aSC65n9o0XEdKMV"/>
       <ns0:duration>00:36:33</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1464,7 +1527,7 @@
       <description>The article provides a comprehensive guide on optimizing context engineering for AI, crucial for Jaxon Digital's focus on developing efficient and accurate MCPs for Optimizely DXP operations. It hi...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ZA7LNb0V6-G1VecCSzkcFWSt57JUI6vt</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZA7LNb0V6-G1VecCSzkcFWSt57JUI6vt" type="audio/mpeg" length="42145276"/>
+      <enclosure length="42145276" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ZA7LNb0V6-G1VecCSzkcFWSt57JUI6vt"/>
       <ns0:duration>00:43:53</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1473,7 +1536,7 @@
       <description>The Claude Code v2.0.28 article provides critical insights into advanced AI agent architectures, including specialized subagents and dynamic model selection, which are directly applicable to Jaxon ...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Be-zYiSQLIMrwqkpLmdy1zliIgxdmoO6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Be-zYiSQLIMrwqkpLmdy1zliIgxdmoO6" type="audio/mpeg" length="22792742"/>
+      <enclosure length="22792742" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Be-zYiSQLIMrwqkpLmdy1zliIgxdmoO6"/>
       <ns0:duration>00:23:44</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1482,7 +1545,7 @@
       <description>The article on building a documentation generator using AI agents presents a practical application that aligns with Jaxon Digital's initiatives in AI agent development for CMS, Commerce, and DevOps...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ps9auCIDnrOyfxwQDul1Anxei96SjSUp</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ps9auCIDnrOyfxwQDul1Anxei96SjSUp" type="audio/mpeg" length="18423678"/>
+      <enclosure length="18423678" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ps9auCIDnrOyfxwQDul1Anxei96SjSUp"/>
       <ns0:duration>00:19:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1491,7 +1554,7 @@
       <description>The article on Dexter AI, a self-improving financial research assistant, offers insights into AI-driven data analysis and automation, relevant to Jaxon Digital's focus on AI agent initiatives and c...</description>
       <pubDate>Thu, 30 Oct 2025 15:03:14  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1bMqbdVTkl79MtphaEHevu56rRSmFHu7w</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bMqbdVTkl79MtphaEHevu56rRSmFHu7w" type="audio/mpeg" length="5018282"/>
+      <enclosure length="5018282" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1bMqbdVTkl79MtphaEHevu56rRSmFHu7w"/>
       <ns0:duration>00:05:13</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1500,7 +1563,7 @@
       <description>The article provides insights into practical applications of AI for productivity and automation, relevant to Jaxon Digital's focus on AI agent initiatives and Optimizely DXP operations.</description>
       <pubDate>Thu, 30 Oct 2025 15:03:13  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1p0eqybTw4Gt-O1LbvRypg9PvRH42FO_C</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1p0eqybTw4Gt-O1LbvRypg9PvRH42FO_C" type="audio/mpeg" length="15250285"/>
+      <enclosure length="15250285" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1p0eqybTw4Gt-O1LbvRypg9PvRH42FO_C"/>
       <ns0:duration>00:15:53</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1509,7 +1572,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:53:12  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1UD7gR8w-fvlsCsxHTV00lsb9EtrR45rK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UD7gR8w-fvlsCsxHTV00lsb9EtrR45rK" type="audio/mpeg" length="15920601"/>
+      <enclosure length="15920601" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1UD7gR8w-fvlsCsxHTV00lsb9EtrR45rK"/>
       <ns0:duration>00:16:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1518,7 +1581,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:49:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ZiPVG7FwwI-G4AjngecWmG_ciXvK7esy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZiPVG7FwwI-G4AjngecWmG_ciXvK7esy" type="audio/mpeg" length="7391489"/>
+      <enclosure length="7391489" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ZiPVG7FwwI-G4AjngecWmG_ciXvK7esy"/>
       <ns0:duration>00:07:41</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1527,7 +1590,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:47:52  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1tiDdpU1LOYU0XCdgZzT4Wyw5r6KqxuYO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tiDdpU1LOYU0XCdgZzT4Wyw5r6KqxuYO" type="audio/mpeg" length="9305739"/>
+      <enclosure length="9305739" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tiDdpU1LOYU0XCdgZzT4Wyw5r6KqxuYO"/>
       <ns0:duration>00:09:41</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1536,7 +1599,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:45:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ztbWqe3CgzSOqmzzKv7M33pQcBoKq8YK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ztbWqe3CgzSOqmzzKv7M33pQcBoKq8YK" type="audio/mpeg" length="15252783"/>
+      <enclosure length="15252783" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ztbWqe3CgzSOqmzzKv7M33pQcBoKq8YK"/>
       <ns0:duration>00:15:53</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1545,7 +1608,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:42:26  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1wpWENGHm4ognyFsjlzxKB4KZw2tvBeqh</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wpWENGHm4ognyFsjlzxKB4KZw2tvBeqh" type="audio/mpeg" length="13590147"/>
+      <enclosure length="13590147" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1wpWENGHm4ognyFsjlzxKB4KZw2tvBeqh"/>
       <ns0:duration>00:14:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1554,7 +1617,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:36:38  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1DGxXq-piaRnZ34JUEAmI040rAGowfptC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DGxXq-piaRnZ34JUEAmI040rAGowfptC" type="audio/mpeg" length="18039129"/>
+      <enclosure length="18039129" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1DGxXq-piaRnZ34JUEAmI040rAGowfptC"/>
       <ns0:duration>00:18:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1563,7 +1626,7 @@
       <description>High Priority Article</description>
       <pubDate>Wed, 29 Oct 2025 11:33:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1IF2khdb1Y-ahiObXEMFBXz4uXIa1wUfP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IF2khdb1Y-ahiObXEMFBXz4uXIa1wUfP" type="audio/mpeg" length="18551345"/>
+      <enclosure length="18551345" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1IF2khdb1Y-ahiObXEMFBXz4uXIa1wUfP"/>
       <ns0:duration>00:19:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1572,7 +1635,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:45:01  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1YmCEW43VHMMpG54no_1UdAIokpIZX6Yk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YmCEW43VHMMpG54no_1UdAIokpIZX6Yk" type="audio/mpeg" length="6850831"/>
+      <enclosure length="6850831" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1YmCEW43VHMMpG54no_1UdAIokpIZX6Yk"/>
       <ns0:duration>00:07:08</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1581,7 +1644,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:43:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1lP7g5JDCCgHTTtjwyUZgmPpen4L9-YfW</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lP7g5JDCCgHTTtjwyUZgmPpen4L9-YfW" type="audio/mpeg" length="36836725"/>
+      <enclosure length="36836725" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1lP7g5JDCCgHTTtjwyUZgmPpen4L9-YfW"/>
       <ns0:duration>00:38:22</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1590,7 +1653,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:36:53  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1--qDBpkiVyCaCC2ZGdGntjDlsfDblFUZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1--qDBpkiVyCaCC2ZGdGntjDlsfDblFUZ" type="audio/mpeg" length="39416799"/>
+      <enclosure length="39416799" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1--qDBpkiVyCaCC2ZGdGntjDlsfDblFUZ"/>
       <ns0:duration>00:41:03</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1599,7 +1662,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:26:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1a8cPH9TRhKaEc5mL4Es-3fhUVJ2yA6EB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a8cPH9TRhKaEc5mL4Es-3fhUVJ2yA6EB" type="audio/mpeg" length="13628861"/>
+      <enclosure length="13628861" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1a8cPH9TRhKaEc5mL4Es-3fhUVJ2yA6EB"/>
       <ns0:duration>00:14:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1608,7 +1671,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:24:08  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gMAl4ZChy8_JStXvkwBE35EqX7F3TxmD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gMAl4ZChy8_JStXvkwBE35EqX7F3TxmD" type="audio/mpeg" length="7969489"/>
+      <enclosure length="7969489" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1gMAl4ZChy8_JStXvkwBE35EqX7F3TxmD"/>
       <ns0:duration>00:08:17</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1617,7 +1680,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:22:40  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1xU0APuP6-doJ-uMrySTDzx68lmMuOopV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xU0APuP6-doJ-uMrySTDzx68lmMuOopV" type="audio/mpeg" length="9262463"/>
+      <enclosure length="9262463" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1xU0APuP6-doJ-uMrySTDzx68lmMuOopV"/>
       <ns0:duration>00:09:38</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1626,7 +1689,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 11:09:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1XJtbb7Y8dbSL3vwFjaZgBihoVjMzZ-s6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XJtbb7Y8dbSL3vwFjaZgBihoVjMzZ-s6" type="audio/mpeg" length="6080517"/>
+      <enclosure length="6080517" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1XJtbb7Y8dbSL3vwFjaZgBihoVjMzZ-s6"/>
       <ns0:duration>00:06:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1635,7 +1698,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 11:08:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=135gGRES1wHOeJsibAoYUi_i76_fg8FcI</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=135gGRES1wHOeJsibAoYUi_i76_fg8FcI" type="audio/mpeg" length="6508311"/>
+      <enclosure length="6508311" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=135gGRES1wHOeJsibAoYUi_i76_fg8FcI"/>
       <ns0:duration>00:06:46</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1644,7 +1707,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 12:00:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1xbqrYEDpviVmusOqOdCAck7OHu8_CRB4</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xbqrYEDpviVmusOqOdCAck7OHu8_CRB4" type="audio/mpeg" length="5973063"/>
+      <enclosure length="5973063" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1xbqrYEDpviVmusOqOdCAck7OHu8_CRB4"/>
       <ns0:duration>00:06:13</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1653,7 +1716,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Sat, 25 Oct 2025 10:55:38  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=10uVETPQFHM4-mSnj0454P_F1yAI0pPZC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10uVETPQFHM4-mSnj0454P_F1yAI0pPZC" type="audio/mpeg" length="17961129"/>
+      <enclosure length="17961129" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=10uVETPQFHM4-mSnj0454P_F1yAI0pPZC"/>
       <ns0:duration>00:18:42</ns0:duration>
       <ns0:author>Tinybird Team</ns0:author>
     </item>
@@ -1662,7 +1725,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 14:00:14  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hdy86aYAtjsbMtj7qVvDCqBuGyKc45xY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hdy86aYAtjsbMtj7qVvDCqBuGyKc45xY" type="audio/mpeg" length="29895157"/>
+      <enclosure length="29895157" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1hdy86aYAtjsbMtj7qVvDCqBuGyKc45xY"/>
       <ns0:duration>00:31:08</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1671,7 +1734,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 13:54:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83" type="audio/mpeg" length="108501083"/>
+      <enclosure length="108501083" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1mGkTzmO9Y7pabg2OBXcscwqnnD4foH83"/>
       <ns0:duration>01:53:01</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1680,7 +1743,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 13:37:48  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ijuqCamO582q8UCB7kFRcT7puGFReYSE</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ijuqCamO582q8UCB7kFRcT7puGFReYSE" type="audio/mpeg" length="34544257"/>
+      <enclosure length="34544257" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ijuqCamO582q8UCB7kFRcT7puGFReYSE"/>
       <ns0:duration>00:35:58</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1689,7 +1752,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 13:32:23  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1iRBms9k3x-V7HwGyNmaT1ZwcUqWosEM5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iRBms9k3x-V7HwGyNmaT1ZwcUqWosEM5" type="audio/mpeg" length="19966725"/>
+      <enclosure length="19966725" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1iRBms9k3x-V7HwGyNmaT1ZwcUqWosEM5"/>
       <ns0:duration>00:20:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1698,7 +1761,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 13:29:11  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ZQRAurMMgHQMWezW5qkXJcBUKXwMSwNX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZQRAurMMgHQMWezW5qkXJcBUKXwMSwNX" type="audio/mpeg" length="29356413"/>
+      <enclosure length="29356413" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ZQRAurMMgHQMWezW5qkXJcBUKXwMSwNX"/>
       <ns0:duration>00:30:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1707,7 +1770,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Fri, 24 Oct 2025 17:35:36  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1fYbTMBMjAX8VwBmiIMsYSEhrDHsTP3Xl</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fYbTMBMjAX8VwBmiIMsYSEhrDHsTP3Xl" type="audio/mpeg" length="18506430"/>
+      <enclosure length="18506430" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fYbTMBMjAX8VwBmiIMsYSEhrDHsTP3Xl"/>
       <ns0:duration>00:19:16</ns0:duration>
       <ns0:author>Article Author</ns0:author>
     </item>
@@ -1716,7 +1779,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:42:48  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1aCzlDIAL3lvzBKN0ma6saiA5KUpDNL7o</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aCzlDIAL3lvzBKN0ma6saiA5KUpDNL7o" type="audio/mpeg" length="11405547"/>
+      <enclosure length="11405547" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1aCzlDIAL3lvzBKN0ma6saiA5KUpDNL7o"/>
       <ns0:duration>00:11:52</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1725,7 +1788,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:54:31  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1tWDVQcMghTz6H2oPI7EazO2ZUOzT0SbH</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tWDVQcMghTz6H2oPI7EazO2ZUOzT0SbH" type="audio/mpeg" length="44310423"/>
+      <enclosure length="44310423" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1tWDVQcMghTz6H2oPI7EazO2ZUOzT0SbH"/>
       <ns0:duration>00:46:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1734,7 +1797,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:47:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1RUPBive8IX0RuMtYekWpPbsYcOFICfn3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RUPBive8IX0RuMtYekWpPbsYcOFICfn3" type="audio/mpeg" length="25148861"/>
+      <enclosure length="25148861" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1RUPBive8IX0RuMtYekWpPbsYcOFICfn3"/>
       <ns0:duration>00:26:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1743,7 +1806,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:42:29  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1DdupxPJ1wMTsogLsgv324t4NPHR39T3_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DdupxPJ1wMTsogLsgv324t4NPHR39T3_" type="audio/mpeg" length="15477421"/>
+      <enclosure length="15477421" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1DdupxPJ1wMTsogLsgv324t4NPHR39T3_"/>
       <ns0:duration>00:16:07</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1752,7 +1815,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:18:31  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1z0zATA8nmBhXqx6SVpEAnfKbuMCkv4uV</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z0zATA8nmBhXqx6SVpEAnfKbuMCkv4uV" type="audio/mpeg" length="20756627"/>
+      <enclosure length="20756627" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1z0zATA8nmBhXqx6SVpEAnfKbuMCkv4uV"/>
       <ns0:duration>00:21:37</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1761,7 +1824,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:39:39  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1KDWj398l4OQo0fC9KrOx7S0VJpB4Ue1q</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KDWj398l4OQo0fC9KrOx7S0VJpB4Ue1q" type="audio/mpeg" length="16930183"/>
+      <enclosure length="16930183" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1KDWj398l4OQo0fC9KrOx7S0VJpB4Ue1q"/>
       <ns0:duration>00:17:38</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1770,7 +1833,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:36:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1LBhBeHatf-erUND0cX6OwPqCvYrIn1tl</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LBhBeHatf-erUND0cX6OwPqCvYrIn1tl" type="audio/mpeg" length="14240929"/>
+      <enclosure length="14240929" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1LBhBeHatf-erUND0cX6OwPqCvYrIn1tl"/>
       <ns0:duration>00:14:49</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1779,7 +1842,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:15:10  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1MC2KzDnI4wmgmvp_aHOHPzZl4-qQnUBa</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MC2KzDnI4wmgmvp_aHOHPzZl4-qQnUBa" type="audio/mpeg" length="20507869"/>
+      <enclosure length="20507869" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1MC2KzDnI4wmgmvp_aHOHPzZl4-qQnUBa"/>
       <ns0:duration>00:21:21</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1788,7 +1851,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:11:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1KC7F00P6HOHgtLk_XZbTuSkgZyNNTi1v</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KC7F00P6HOHgtLk_XZbTuSkgZyNNTi1v" type="audio/mpeg" length="7677595"/>
+      <enclosure length="7677595" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1KC7F00P6HOHgtLk_XZbTuSkgZyNNTi1v"/>
       <ns0:duration>00:07:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1797,7 +1860,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:34:25  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=195Sn4T-XgUy5LclcKDiQIgq2xvlkJayQ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=195Sn4T-XgUy5LclcKDiQIgq2xvlkJayQ" type="audio/mpeg" length="18597123"/>
+      <enclosure length="18597123" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=195Sn4T-XgUy5LclcKDiQIgq2xvlkJayQ"/>
       <ns0:duration>00:19:22</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1806,7 +1869,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:09:55  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1RFtcTMZIpgZm-T5TYfsFoIehEN_345pa</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RFtcTMZIpgZm-T5TYfsFoIehEN_345pa" type="audio/mpeg" length="18229583"/>
+      <enclosure length="18229583" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1RFtcTMZIpgZm-T5TYfsFoIehEN_345pa"/>
       <ns0:duration>00:18:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1815,7 +1878,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:31:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1oPunbaAdlKy35qX5_vNcZygZzRsjsPeJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oPunbaAdlKy35qX5_vNcZygZzRsjsPeJ" type="audio/mpeg" length="30689251"/>
+      <enclosure length="30689251" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1oPunbaAdlKy35qX5_vNcZygZzRsjsPeJ"/>
       <ns0:duration>00:31:57</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1824,7 +1887,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:07:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1-UdJjtYgyq4IK_QhF_jdyADUEAEuOe3O</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-UdJjtYgyq4IK_QhF_jdyADUEAEuOe3O" type="audio/mpeg" length="13621231"/>
+      <enclosure length="13621231" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1-UdJjtYgyq4IK_QhF_jdyADUEAEuOe3O"/>
       <ns0:duration>00:14:11</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1833,7 +1896,7 @@
       <description>High Priority Article</description>
       <pubDate>Fri, 24 Oct 2025 00:04:58  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1uFYzne33EByc_zKtet_73KjoSUZ5lOoW</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uFYzne33EByc_zKtet_73KjoSUZ5lOoW" type="audio/mpeg" length="38901405"/>
+      <enclosure length="38901405" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1uFYzne33EByc_zKtet_73KjoSUZ5lOoW"/>
       <ns0:duration>00:40:31</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1842,7 +1905,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:26:03  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Tnppk3VWJsBrhw5BWWhe-1Ec-1-cVaFo</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tnppk3VWJsBrhw5BWWhe-1Ec-1-cVaFo" type="audio/mpeg" length="15039261"/>
+      <enclosure length="15039261" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Tnppk3VWJsBrhw5BWWhe-1Ec-1-cVaFo"/>
       <ns0:duration>00:15:39</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1851,7 +1914,7 @@
       <description>High Priority Article</description>
       <pubDate>Sat, 25 Oct 2025 10:23:25  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1JQ_JfLRoGYxRbEDXaeMIIVygJOOwiDGc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JQ_JfLRoGYxRbEDXaeMIIVygJOOwiDGc" type="audio/mpeg" length="9041659"/>
+      <enclosure length="9041659" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1JQ_JfLRoGYxRbEDXaeMIIVygJOOwiDGc"/>
       <ns0:duration>00:09:24</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -1860,7 +1923,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 19:49:40  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Gvv4fMiQVruHuAMVd5hvjrZbCor3oJ0K</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gvv4fMiQVruHuAMVd5hvjrZbCor3oJ0K" type="audio/mpeg" length="11662770"/>
+      <enclosure length="11662770" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Gvv4fMiQVruHuAMVd5hvjrZbCor3oJ0K"/>
       <ns0:duration>00:12:08</ns0:duration>
       <ns0:author>Unknown</ns0:author>
     </item>
@@ -1869,7 +1932,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 19:34:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1P70f7W-or7f-GGifu_dOKUrDsf2IGsxW</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P70f7W-or7f-GGifu_dOKUrDsf2IGsxW" type="audio/mpeg" length="8152982"/>
+      <enclosure length="8152982" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1P70f7W-or7f-GGifu_dOKUrDsf2IGsxW"/>
       <ns0:duration>00:08:29</ns0:duration>
       <ns0:author>Johnny Mullaney</ns0:author>
     </item>
@@ -1878,7 +1941,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 19:34:35  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=18Oz66hBOmOgNnf3TPjGLKq05T37um6gA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18Oz66hBOmOgNnf3TPjGLKq05T37um6gA" type="audio/mpeg" length="14419471"/>
+      <enclosure length="14419471" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=18Oz66hBOmOgNnf3TPjGLKq05T37um6gA"/>
       <ns0:duration>00:15:01</ns0:duration>
       <ns0:author>Unknown</ns0:author>
     </item>
@@ -1887,7 +1950,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 19:21:46  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1kMz-FT9YUkXCG1mpJ3ldKb8QUtvV5-lZ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kMz-FT9YUkXCG1mpJ3ldKb8QUtvV5-lZ" type="audio/mpeg" length="17337099"/>
+      <enclosure length="17337099" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1kMz-FT9YUkXCG1mpJ3ldKb8QUtvV5-lZ"/>
       <ns0:duration>00:18:03</ns0:duration>
       <ns0:author>Unknown</ns0:author>
     </item>
@@ -1896,7 +1959,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 19:54:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Dc-xjXmFQ_30aTrLk8bzHfXUqoUcCQfi</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dc-xjXmFQ_30aTrLk8bzHfXUqoUcCQfi" type="audio/mpeg" length="4426658"/>
+      <enclosure length="4426658" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Dc-xjXmFQ_30aTrLk8bzHfXUqoUcCQfi"/>
       <ns0:duration>00:04:36</ns0:duration>
       <ns0:author>Johnny Mullaney</ns0:author>
     </item>
@@ -1905,7 +1968,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 18:19:35  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HUh-HCXx75itEthsS7xB1ulDBczCMy1p</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HUh-HCXx75itEthsS7xB1ulDBczCMy1p" type="audio/mpeg" length="15253119"/>
+      <enclosure length="15253119" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HUh-HCXx75itEthsS7xB1ulDBczCMy1p"/>
       <ns0:duration>00:15:53</ns0:duration>
       <ns0:author>Unknown</ns0:author>
     </item>
@@ -1914,7 +1977,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Thu, 23 Oct 2025 18:01:40  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=15uCZNlQ31hfvhj9GcNF70RGazO-NzmvO</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15uCZNlQ31hfvhj9GcNF70RGazO-NzmvO" type="audio/mpeg" length="13298970"/>
+      <enclosure length="13298970" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15uCZNlQ31hfvhj9GcNF70RGazO-NzmvO"/>
       <ns0:duration>00:13:51</ns0:duration>
       <ns0:author>Sanjay Katiyar</ns0:author>
     </item>
@@ -1923,7 +1986,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 16:52:53  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hog-33_ZVqUwVh6d2OxLoJS9tnEu5GMC</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hog-33_ZVqUwVh6d2OxLoJS9tnEu5GMC" type="audio/mpeg" length="4687396"/>
+      <enclosure length="4687396" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1hog-33_ZVqUwVh6d2OxLoJS9tnEu5GMC"/>
       <ns0:duration>00:04:52</ns0:duration>
       <ns0:author>Tari Ibaba</ns0:author>
     </item>
@@ -1932,7 +1995,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 10:06:00  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1wEKvzQYxZt4NBDSUJcQ_bCfRXPSpuhIh</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wEKvzQYxZt4NBDSUJcQ_bCfRXPSpuhIh" type="audio/mpeg" length="11616271"/>
+      <enclosure length="11616271" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1wEKvzQYxZt4NBDSUJcQ_bCfRXPSpuhIh"/>
       <ns0:duration>00:12:05</ns0:duration>
       <ns0:author>Elliot Graebert</ns0:author>
     </item>
@@ -1941,7 +2004,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Mon, 27 Oct 2025 15:10:11  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1rxmHJFe89nxOS-tpoudgajDD1QMVS4L7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rxmHJFe89nxOS-tpoudgajDD1QMVS4L7" type="audio/mpeg" length="5815562"/>
+      <enclosure length="5815562" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1rxmHJFe89nxOS-tpoudgajDD1QMVS4L7"/>
       <ns0:duration>00:06:03</ns0:duration>
       <ns0:author>Hady Hamdy</ns0:author>
     </item>
@@ -1950,7 +2013,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Mon, 27 Oct 2025 14:29:05  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1xIEmCQeS2Kk1seu-en26gdJA61qHuC-h</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xIEmCQeS2Kk1seu-en26gdJA61qHuC-h" type="audio/mpeg" length="6472562"/>
+      <enclosure length="6472562" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1xIEmCQeS2Kk1seu-en26gdJA61qHuC-h"/>
       <ns0:duration>00:06:44</ns0:duration>
       <ns0:author>Hady Hamdy</ns0:author>
     </item>
@@ -1959,7 +2022,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Mon, 27 Oct 2025 12:21:04  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1GxRYTwGLFysnbmyZekOpWwr658W6oyuY</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GxRYTwGLFysnbmyZekOpWwr658W6oyuY" type="audio/mpeg" length="7080442"/>
+      <enclosure length="7080442" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1GxRYTwGLFysnbmyZekOpWwr658W6oyuY"/>
       <ns0:duration>00:07:22</ns0:duration>
       <ns0:author>Hady Hamdy</ns0:author>
     </item>
@@ -1968,7 +2031,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 10:01:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=15ihFppzPe6myzg4vIWzhv-PEtUBWufdu</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15ihFppzPe6myzg4vIWzhv-PEtUBWufdu" type="audio/mpeg" length="11738388"/>
+      <enclosure length="11738388" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=15ihFppzPe6myzg4vIWzhv-PEtUBWufdu"/>
       <ns0:duration>00:12:13</ns0:duration>
       <ns0:author>Amitabh Saikia</ns0:author>
     </item>
@@ -1977,7 +2040,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 09:33:02  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1SwQ-19aiFG4yo_Hi5bsK_OFTPwuKnFX-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SwQ-19aiFG4yo_Hi5bsK_OFTPwuKnFX-" type="audio/mpeg" length="14033545"/>
+      <enclosure length="14033545" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1SwQ-19aiFG4yo_Hi5bsK_OFTPwuKnFX-"/>
       <ns0:duration>00:14:36</ns0:duration>
       <ns0:author>Amitabh Saikia</ns0:author>
     </item>
@@ -1986,7 +2049,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 09:29:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HbLkd_B8j-W9cpMxPzQ1CnciguGTV1Gj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HbLkd_B8j-W9cpMxPzQ1CnciguGTV1Gj" type="audio/mpeg" length="7440249"/>
+      <enclosure length="7440249" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HbLkd_B8j-W9cpMxPzQ1CnciguGTV1Gj"/>
       <ns0:duration>00:07:44</ns0:duration>
       <ns0:author>Hady Hamdy</ns0:author>
     </item>
@@ -1995,7 +2058,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 02:07:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1QChq9eL0zPp9oTjnNL0K8BASWUyZktB6</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QChq9eL0zPp9oTjnNL0K8BASWUyZktB6" type="audio/mpeg" length="26805402"/>
+      <enclosure length="26805402" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1QChq9eL0zPp9oTjnNL0K8BASWUyZktB6"/>
       <ns0:duration>00:27:55</ns0:duration>
       <ns0:author>Somanath diksangi</ns0:author>
     </item>
@@ -2004,7 +2067,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Tue, 21 Oct 2025 23:43:25  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1VS7KBzcFBensrN86W5TZ__IiJCNLl586</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VS7KBzcFBensrN86W5TZ__IiJCNLl586" type="audio/mpeg" length="8475924"/>
+      <enclosure length="8475924" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1VS7KBzcFBensrN86W5TZ__IiJCNLl586"/>
       <ns0:duration>00:08:49</ns0:duration>
       <ns0:author>Johnny Mullaney</ns0:author>
     </item>
@@ -2013,7 +2076,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 00:12:45  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HuMMUk8hPeSkjSo7KnSVMouRkvjXNw-N</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HuMMUk8hPeSkjSo7KnSVMouRkvjXNw-N" type="audio/mpeg" length="11164314"/>
+      <enclosure length="11164314" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HuMMUk8hPeSkjSo7KnSVMouRkvjXNw-N"/>
       <ns0:duration>00:11:37</ns0:duration>
       <ns0:author>Yash V</ns0:author>
     </item>
@@ -2022,7 +2085,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 00:12:22  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1DhfNAclDqhchi953XumFxDE-h0YEanru</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DhfNAclDqhchi953XumFxDE-h0YEanru" type="audio/mpeg" length="12338202"/>
+      <enclosure length="12338202" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1DhfNAclDqhchi953XumFxDE-h0YEanru"/>
       <ns0:duration>00:12:51</ns0:duration>
       <ns0:author>Vedat Erenoglu</ns0:author>
     </item>
@@ -2031,7 +2094,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 00:12:09  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1IfJiYb2bfb1dDAPOVoJaYt51FqWrseos</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IfJiYb2bfb1dDAPOVoJaYt51FqWrseos" type="audio/mpeg" length="9448193"/>
+      <enclosure length="9448193" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1IfJiYb2bfb1dDAPOVoJaYt51FqWrseos"/>
       <ns0:duration>00:09:50</ns0:duration>
       <ns0:author>Steviee</ns0:author>
     </item>
@@ -2040,7 +2103,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Wed, 22 Oct 2025 00:11:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1mJ_27LqHhaCkX_svZDFiHTlRN2c5aoS_</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mJ_27LqHhaCkX_svZDFiHTlRN2c5aoS_" type="audio/mpeg" length="8841849"/>
+      <enclosure length="8841849" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1mJ_27LqHhaCkX_svZDFiHTlRN2c5aoS_"/>
       <ns0:duration>00:09:12</ns0:duration>
       <ns0:author>Laurent Kubaski</ns0:author>
     </item>
@@ -2049,7 +2112,7 @@
       <description>High Priority Article Review</description>
       <pubDate>Tue, 21 Oct 2025 23:55:45  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1_dX3opo4D-y-8muGEirvUSMlCXKQeaQy</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_dX3opo4D-y-8muGEirvUSMlCXKQeaQy" type="audio/mpeg" length="20793109"/>
+      <enclosure length="20793109" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1_dX3opo4D-y-8muGEirvUSMlCXKQeaQy"/>
       <ns0:duration>00:21:39</ns0:duration>
       <ns0:author>Juan Pelaez</ns0:author>
     </item>
@@ -2058,7 +2121,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 21 Oct 2025 11:25:15  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jkBXOoqSvHnc83I0VtnKrCOIBTlLDRcX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jkBXOoqSvHnc83I0VtnKrCOIBTlLDRcX" type="audio/mpeg" length="9819605"/>
+      <enclosure length="9819605" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jkBXOoqSvHnc83I0VtnKrCOIBTlLDRcX"/>
       <ns0:duration>00:10:13</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2067,7 +2130,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 21 Oct 2025 11:19:46  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HSOWdexuP8zOQ5aSkAR3TZVqrK-vL0IK</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HSOWdexuP8zOQ5aSkAR3TZVqrK-vL0IK" type="audio/mpeg" length="11954987"/>
+      <enclosure length="11954987" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HSOWdexuP8zOQ5aSkAR3TZVqrK-vL0IK"/>
       <ns0:duration>00:12:27</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2076,7 +2139,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 21 Oct 2025 11:23:16  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jOb-0sbnLRr9xD9HNBPTw-BcU4QcYcQj</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jOb-0sbnLRr9xD9HNBPTw-BcU4QcYcQj" type="audio/mpeg" length="12112875"/>
+      <enclosure length="12112875" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1jOb-0sbnLRr9xD9HNBPTw-BcU4QcYcQj"/>
       <ns0:duration>00:12:36</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2085,7 +2148,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:40:48  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1orVb_XXvFghxD6OqrS6LaMO2I0CarXWP</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1orVb_XXvFghxD6OqrS6LaMO2I0CarXWP" type="audio/mpeg" length="36725657"/>
+      <enclosure length="36725657" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1orVb_XXvFghxD6OqrS6LaMO2I0CarXWP"/>
       <ns0:duration>00:38:15</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2094,7 +2157,7 @@
       <description>The analysis reveals critical insights into advanced AI language model techniques, particularly text diffusion models, and their relevance to enhancing Jaxon Digital's AI agent initiatives. While t...</description>
       <pubDate>Sat, 01 Nov 2025 10:55:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1x3BlnxvIAO7AnNy3SRIk3_ESPr-fUjOn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x3BlnxvIAO7AnNy3SRIk3_ESPr-fUjOn" type="audio/mpeg" length="13536540"/>
+      <enclosure length="13536540" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1x3BlnxvIAO7AnNy3SRIk3_ESPr-fUjOn"/>
       <ns0:duration>00:14:05</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2103,7 +2166,7 @@
       <description>Relevance: 4/5 stars</description>
       <pubDate>Sun, 19 Oct 2025 01:01:26  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1qCSKr7xB839RLyig4yvt9pKkzIcgJlIc</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qCSKr7xB839RLyig4yvt9pKkzIcgJlIc" type="audio/mpeg" length="57558523"/>
+      <enclosure length="57558523" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1qCSKr7xB839RLyig4yvt9pKkzIcgJlIc"/>
       <ns0:duration>00:59:57</ns0:duration>
       <ns0:author>Javier Ramos</ns0:author>
     </item>
@@ -2112,7 +2175,7 @@
       <description>Relevance: 5/5 stars</description>
       <pubDate>Sun, 19 Oct 2025 00:52:17  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1FXoq2hzZnOE89sHbcjsTCSgb3ltV97J2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FXoq2hzZnOE89sHbcjsTCSgb3ltV97J2" type="audio/mpeg" length="19302479"/>
+      <enclosure length="19302479" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1FXoq2hzZnOE89sHbcjsTCSgb3ltV97J2"/>
       <ns0:duration>00:20:06</ns0:duration>
       <ns0:author>Quan Huynh</ns0:author>
     </item>
@@ -2121,7 +2184,7 @@
       <description>The synthesis of the article analyses reveals critical insights and strategic implications for Jaxon Digital's transformation into a SaaS platform for AI Operations. It underscores the importance o...</description>
       <pubDate>Sat, 01 Nov 2025 10:52:33  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1H25Bh0gnx04ni4J6r7CHNk1i2SPksGEX</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H25Bh0gnx04ni4J6r7CHNk1i2SPksGEX" type="audio/mpeg" length="25273486"/>
+      <enclosure length="25273486" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1H25Bh0gnx04ni4J6r7CHNk1i2SPksGEX"/>
       <ns0:duration>00:26:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2130,7 +2193,7 @@
       <description>The IBM Granite 4.0 Nano article is of high strategic relevance to Jaxon Digital's transformation into a SaaS platform for AI Operations, particularly in enhancing AI agent initiatives and platform...</description>
       <pubDate>Sat, 01 Nov 2025 10:47:56  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ePrE-8sW9w6KbklbBVI5k80Fd5DF65bm</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ePrE-8sW9w6KbklbBVI5k80Fd5DF65bm" type="audio/mpeg" length="10893350"/>
+      <enclosure length="10893350" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1ePrE-8sW9w6KbklbBVI5k80Fd5DF65bm"/>
       <ns0:duration>00:11:20</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2139,7 +2202,7 @@
       <description>The article's focus on Spec Driven Development (SDD) and the utilization of tools like GitHub Spec Kit aligns closely with Jaxon Digital's strategic pivot towards a SaaS platform for AI Operations....</description>
       <pubDate>Sat, 01 Nov 2025 10:46:20  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1LC9CmglFo5qXQRIV39JhWIUnGLBzXKlD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LC9CmglFo5qXQRIV39JhWIUnGLBzXKlD" type="audio/mpeg" length="20841772"/>
+      <enclosure length="20841772" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1LC9CmglFo5qXQRIV39JhWIUnGLBzXKlD"/>
       <ns0:duration>00:21:42</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2148,7 +2211,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:33:57  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1AqirPafd7TKr4YEHB3Szv-XiiAt7zNy5</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AqirPafd7TKr4YEHB3Szv-XiiAt7zNy5" type="audio/mpeg" length="14863113"/>
+      <enclosure length="14863113" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1AqirPafd7TKr4YEHB3Szv-XiiAt7zNy5"/>
       <ns0:duration>00:15:28</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2157,7 +2220,7 @@
       <description>The article on customizing Claude Code with plugins is highly relevant to Jaxon Digital's AI agent initiatives, especially as it transitions to a SaaS platform for AI Operations. The integration of...</description>
       <pubDate>Sat, 01 Nov 2025 10:42:53  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1nWiROnIf3tgDXsP47RVIDR2hsmwkA3I3</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nWiROnIf3tgDXsP47RVIDR2hsmwkA3I3" type="audio/mpeg" length="9408066"/>
+      <enclosure length="9408066" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1nWiROnIf3tgDXsP47RVIDR2hsmwkA3I3"/>
       <ns0:duration>00:09:47</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2166,7 +2229,7 @@
       <description>The partnership between Anthropic and Salesforce to bring Claude to regulated industries is highly relevant to Jaxon Digital's AI agent initiatives. It showcases a successful model for integrating ...</description>
       <pubDate>Sat, 01 Nov 2025 10:41:18  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1HHq3DKmmNF-d3d-b1UwJLRjrN2TpWM-s</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HHq3DKmmNF-d3d-b1UwJLRjrN2TpWM-s" type="audio/mpeg" length="7674788"/>
+      <enclosure length="7674788" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1HHq3DKmmNF-d3d-b1UwJLRjrN2TpWM-s"/>
       <ns0:duration>00:07:59</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2175,7 +2238,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:49:41  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Swb0wwKJvSxBMGfk9OKkffMYyi8OrrHJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Swb0wwKJvSxBMGfk9OKkffMYyi8OrrHJ" type="audio/mpeg" length="10955853"/>
+      <enclosure length="10955853" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Swb0wwKJvSxBMGfk9OKkffMYyi8OrrHJ"/>
       <ns0:duration>00:11:24</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2184,7 +2247,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:54:36  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1BcyXluz4TcwzfPukERp0ZnQ8kzw0rUC1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BcyXluz4TcwzfPukERp0ZnQ8kzw0rUC1" type="audio/mpeg" length="44316565"/>
+      <enclosure length="44316565" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1BcyXluz4TcwzfPukERp0ZnQ8kzw0rUC1"/>
       <ns0:duration>00:46:09</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2193,7 +2256,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:48:06  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1JI9gbyedh-OIIGgtbg-_FtFpw6kXrKlD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JI9gbyedh-OIIGgtbg-_FtFpw6kXrKlD" type="audio/mpeg" length="10826383"/>
+      <enclosure length="10826383" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1JI9gbyedh-OIIGgtbg-_FtFpw6kXrKlD"/>
       <ns0:duration>00:11:16</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2202,7 +2265,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:45:21  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1vSr3UBeuga0yv9LYQusJgbIv5p13Bk1y</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vSr3UBeuga0yv9LYQusJgbIv5p13Bk1y" type="audio/mpeg" length="11812919"/>
+      <enclosure length="11812919" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1vSr3UBeuga0yv9LYQusJgbIv5p13Bk1y"/>
       <ns0:duration>00:12:18</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2211,7 +2274,7 @@
       <description>High Priority Article</description>
       <pubDate>Tue, 28 Oct 2025 17:12:55  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1oa2bhdxbfcFzzg6FkqvxNtw9yzHZ3g-r</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oa2bhdxbfcFzzg6FkqvxNtw9yzHZ3g-r" type="audio/mpeg" length="9314185"/>
+      <enclosure length="9314185" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1oa2bhdxbfcFzzg6FkqvxNtw9yzHZ3g-r"/>
       <ns0:duration>00:09:42</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2220,7 +2283,7 @@
       <description>High Priority Article</description>
       <pubDate>Sun, 26 Oct 2025 23:32:32  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1fDja0p_SjnytWJ0HsEfrJbBv6f0Ypjhb</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fDja0p_SjnytWJ0HsEfrJbBv6f0Ypjhb" type="audio/mpeg" length="16628693"/>
+      <enclosure length="16628693" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fDja0p_SjnytWJ0HsEfrJbBv6f0Ypjhb"/>
       <ns0:duration>00:17:19</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
@@ -2229,7 +2292,7 @@
       <description>High Priority Article</description>
       <pubDate>Mon, 27 Oct 2025 15:22:54  +0000</pubDate>
       <guid>https://drive.google.com/uc?export=download&amp;id=1wxrIPU65ftgTozs2dCSbzTMhzuSq15Pp</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wxrIPU65ftgTozs2dCSbzTMhzuSq15Pp" type="audio/mpeg" length="9186737"/>
+      <enclosure length="9186737" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1wxrIPU65ftgTozs2dCSbzTMhzuSq15Pp"/>
       <ns0:duration>00:09:34</ns0:duration>
       <ns0:author>Medium Author</ns0:author>
     </item>
