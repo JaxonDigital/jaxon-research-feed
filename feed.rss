@@ -11,6 +11,15 @@
     <ns0:image href="https://jaxondigital.github.io/jaxon-research-feed/cover-art.png"/>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>GAT-949</title>
+      <description>Article review - GAT-949</description>
+      <pubDate>Mon, 24 Nov 2025 15:00:11  +0000</pubDate>
+      <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-949.mp3</guid>
+      <enclosure length="25050764" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-949.mp3"/>
+      <ns0:duration>00:20:52</ns0:duration>
+      <ns0:author>Unknown</ns0:author>
+    </item>
+    <item>
       <title>946 - Building An Ai Agent With Model Context Protocol Mcp A Complete Guide</title>
       <description>The comprehensive guide on building AI agents using Model Context Protocol (MCP) is critically relevant to Jaxon Digital's strategic pivot towards an AI Operations Platform. It underscores the impo...</description>
       <pubDate>Mon, 24 Nov 2025 10:49:01  +0000</pubDate>
