@@ -11,13 +11,13 @@
     <ns0:image href="https://jaxondigital.github.io/jaxon-research-feed/cover-art.png"/>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GAT-949</title>
-      <description>Article review - GAT-949</description>
-      <pubDate>Mon, 24 Nov 2025 15:00:11  +0000</pubDate>
+      <title>AI Agent Revolution: How Anthropic Cut Token Usage By 98% With Code Execution</title>
+      <description>Article review - AI Agent Revolution: How Anthropic Cut Token Usage By 98% With Code Execution</description>
+      <pubDate>Fri, 28 Nov 2025 09:44:02  +0000</pubDate>
       <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-949.mp3</guid>
-      <enclosure length="25050764" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-949.mp3"/>
+      <enclosure length="25050890" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-949.mp3"/>
       <ns0:duration>00:20:52</ns0:duration>
-      <ns0:author>Unknown</ns0:author>
+      <ns0:author>Abhinayapinreddy (Medium)</ns0:author>
     </item>
     <item>
       <title>946 - Building An Ai Agent With Model Context Protocol Mcp A Complete Guide</title>
@@ -38,22 +38,22 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
-      <title>GAT-944</title>
-      <description>Article review - GAT-944</description>
-      <pubDate>Mon, 24 Nov 2025 14:31:58  +0000</pubDate>
+      <title>I Analyzed 250 AI PM Job Postings: Four Skills Show Up In 94% Of Them</title>
+      <description>Article review - I Analyzed 250 AI PM Job Postings: Four Skills Show Up In 94% Of Them</description>
+      <pubDate>Fri, 28 Nov 2025 09:43:53  +0000</pubDate>
       <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-944.mp3</guid>
-      <enclosure length="9781484" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-944.mp3"/>
+      <enclosure length="9781598" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-944.mp3"/>
       <ns0:duration>00:08:09</ns0:duration>
-      <ns0:author>Unknown</ns0:author>
+      <ns0:author>Aakash Gupta (Medium)</ns0:author>
     </item>
     <item>
-      <title>GAT-943</title>
-      <description>Article review - GAT-943</description>
-      <pubDate>Mon, 24 Nov 2025 14:21:18  +0000</pubDate>
+      <title>GPT 5.1 Codex Max vs Gemini 3 Pro: Next Generation AI Coding Titans</title>
+      <description>Article review - GPT 5.1 Codex Max vs Gemini 3 Pro: Next Generation AI Coding Titans</description>
+      <pubDate>Fri, 28 Nov 2025 09:43:47  +0000</pubDate>
       <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-943.mp3</guid>
-      <enclosure length="14608364" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-943.mp3"/>
+      <enclosure length="14608473" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-943.mp3"/>
       <ns0:duration>00:12:10</ns0:duration>
-      <ns0:author>Unknown</ns0:author>
+      <ns0:author>leucopsis (Medium)</ns0:author>
     </item>
     <item>
       <title>939 - A Prompting Playbook For Building Multi Agent Ai Systems</title>
@@ -290,13 +290,13 @@
       <ns0:author>Medium Author</ns0:author>
     </item>
     <item>
-      <title>GAT-860</title>
-      <description>Article review - GAT-860</description>
-      <pubDate>Mon, 17 Nov 2025 16:38:16  +0000</pubDate>
+      <title>Building Powerful AI Agents with LangGraph: A Complete Guide</title>
+      <description>Article review - Building Powerful AI Agents with LangGraph: A Complete Guide</description>
+      <pubDate>Fri, 28 Nov 2025 09:43:39  +0000</pubDate>
       <guid>https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3</guid>
-      <enclosure length="4987680" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3"/>
+      <enclosure length="4988294" type="audio/mpeg" url="https://jaxondigital.github.io/jaxon-research-feed/audio/GAT-860.mp3"/>
       <ns0:duration>00:04:09</ns0:duration>
-      <ns0:author>Unknown</ns0:author>
+      <ns0:author>Medium</ns0:author>
     </item>
     <item>
       <title>859 - The Unstable Genius Intern Why Your Ai Agent Is Brilliant One Moment And Baffles You The Next</title>
