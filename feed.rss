@@ -11,6 +11,42 @@
     <ns0:image href="https://jaxondigital.github.io/jaxon-research-feed/cover-art.png"/>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>964 - Google Has Officially Won The Ai Race</title>
+      <description>The article frames Google’s Gemini 3 Pro + Anti Gravity as a vertically integrated AI platform that combines frontier models with an ‘agent command center’ for orchestration, supervision, and deplo...</description>
+      <pubDate>Fri, 28 Nov 2025 12:33:02  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1p85HRYx38XEJDXgr9fWrVf2YtXZgfUeX</guid>
+      <enclosure length="16573520" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1p85HRYx38XEJDXgr9fWrVf2YtXZgfUeX"/>
+      <ns0:duration>00:17:15</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>962 - The Era Of Action With Gemini 3 Pro Google Antigravity</title>
+      <description>The article frames Gemini 3 Pro and Google Antigravity as a tightly integrated, agent‑first ecosystem optimized for ‘virtual employee’ style agents, with explicit controls for reasoning depth, mult...</description>
+      <pubDate>Fri, 28 Nov 2025 12:29:51  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1KElyWLDU6v67JMEf7Y2rrgif9CKtnFGy</guid>
+      <enclosure length="15731058" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1KElyWLDU6v67JMEf7Y2rrgif9CKtnFGy"/>
+      <ns0:duration>00:16:23</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>960 - The 4 Best Open Source Multi Agent Ai Frameworks In 2025</title>
+      <description>The article directly compares four leading open‑source multi‑agent frameworks (including LangGraph, which Jaxon is standardizing on) with concrete setup examples. It helps Jaxon refine its agent or...</description>
+      <pubDate>Fri, 28 Nov 2025 12:26:36  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1n0cWa1TUS-PYCnkqrwkXx-2CKLJBTSdY</guid>
+      <enclosure length="11374580" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1n0cWa1TUS-PYCnkqrwkXx-2CKLJBTSdY"/>
+      <ns0:duration>00:11:50</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>957 - From Prd To Production My Spec Kit Workflow For Structured Development</title>
+      <description>The article describes a concrete, repeatable workflow for turning a PRD into production code using GitHub Spec Kit plus Claude as an AI coding assistant. It showcases patterns for constitutions, sp...</description>
+      <pubDate>Fri, 28 Nov 2025 12:24:45  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1pyRtdchXZtaSwWsrLQxHB4CNIX7bSNBr</guid>
+      <enclosure length="9355148" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1pyRtdchXZtaSwWsrLQxHB4CNIX7bSNBr"/>
+      <ns0:duration>00:09:44</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>AI Agent Revolution: How Anthropic Cut Token Usage By 98% With Code Execution</title>
       <description>Article review - AI Agent Revolution: How Anthropic Cut Token Usage By 98% With Code Execution</description>
       <pubDate>Fri, 28 Nov 2025 09:44:02  +0000</pubDate>
