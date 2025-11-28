@@ -11,6 +11,33 @@
     <ns0:image href="https://jaxondigital.github.io/jaxon-research-feed/cover-art.png"/>
     <ns1:link href="https://jaxondigital.github.io/jaxon-research-feed/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
+      <title>975 - Disrupting the first reported AI-orchestrated cyber espionage campaign</title>
+      <description>This article is directly relevant to Jaxon’s AI Operations platform and Agent #19 (Early Warning System) because it describes a real, large-scale AI-agent cyber campaign and Anthropic’s defensive r...</description>
+      <pubDate>Fri, 28 Nov 2025 14:06:02  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Y_3vT9TFbyRu9V-DD_KKhA0_GLD3xTeW</guid>
+      <enclosure length="14568720" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Y_3vT9TFbyRu9V-DD_KKhA0_GLD3xTeW"/>
+      <ns0:duration>00:15:10</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>972 - Claude now available in Microsoft Foundry and Microsoft 365 Copilot</title>
+      <description>This article is highly relevant because it shows how Claude-based agents are being productized and distributed inside the Microsoft ecosystem (Foundry, 365 Copilot, Excel Agent Mode) with serverles...</description>
+      <pubDate>Fri, 28 Nov 2025 14:03:41  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1hZ5pp61xr1WW6lVBv35wu5XsRSuTaca7</guid>
+      <enclosure length="8388614" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1hZ5pp61xr1WW6lVBv35wu5XsRSuTaca7"/>
+      <ns0:duration>00:08:44</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
+      <title>971 - Introducing Claude Opus 4.5</title>
+      <description>Claude Opus 4.5 is positioned as a state-of-the-art, cost-effective model for agents, tool use, and long-running workflows, with explicit support for multi-agent coordination, context management, a...</description>
+      <pubDate>Fri, 28 Nov 2025 14:01:55  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1XiZuAHGFYyGuftpPsDlqcGNBYi_1yNfk</guid>
+      <enclosure length="17082294" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1XiZuAHGFYyGuftpPsDlqcGNBYi_1yNfk"/>
+      <ns0:duration>00:17:47</ns0:duration>
+      <ns0:author>Medium Author</ns0:author>
+    </item>
+    <item>
       <title>964 - Google Has Officially Won The Ai Race</title>
       <description>The article frames Google’s Gemini 3 Pro + Anti Gravity as a vertically integrated AI platform that combines frontier models with an ‘agent command center’ for orchestration, supervision, and deplo...</description>
       <pubDate>Fri, 28 Nov 2025 12:33:02  +0000</pubDate>
